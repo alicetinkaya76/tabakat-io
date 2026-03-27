@@ -78,13 +78,13 @@ export default function AboutPage() {
         <Section title={t.teamTitle}>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <PersonCard
-              name="Dr. Ali Çetinkaya"
-              role={lang === 'tr' ? 'Bilgisayar Mühendisliği, Selçuk Üniversitesi' : 'Computer Engineering, Selçuk University'}
+              name="Dr. Hüseyin Gökalp"
+              role={lang === 'tr' ? 'İlahiyat Fakültesi, Selçuk Üniversitesi' : 'Faculty of Theology, Selçuk University'}
               orcid="0000-0002-7747-6854"
             />
             <PersonCard
-              name="Dr. Hüseyin Gökalp"
-              role={lang === 'tr' ? 'İlahiyat Fakültesi, Selçuk Üniversitesi' : 'Faculty of Theology, Selçuk University'}
+              name="Dr. Ali Çetinkaya"
+              role={lang === 'tr' ? 'Bilgisayar Mühendisliği, Selçuk Üniversitesi' : 'Computer Engineering, Selçuk University'}
             />
           </div>
         </Section>
@@ -98,7 +98,7 @@ export default function AboutPage() {
       {/* Footer */}
       <div className="mt-16 pt-8 border-t border-sand-200 dark:border-ink-700 text-center">
         <p className="text-sm text-ink-500 dark:text-sand-400">
-          tabakat.io — v1.0 · Selçuk Üniversitesi · 2025
+          tabakat.io — v7.0 · Selçuk Üniversitesi · 2026
         </p>
         <p className="text-xs text-ink-400 dark:text-sand-500 mt-2">
           <a href="https://github.com/alicetinkaya76/tabakat-io" target="_blank" rel="noopener noreferrer" className="hover:text-gold-600 transition-colors">
@@ -162,7 +162,7 @@ const translations = {
     methodText1: 'Veri toplama sürecinde yarı-otomatik bir NLP boru hattı kullanılmıştır. Biyografik metinlerden âlim bilgileri (isim, vefat, alan, mezhep, ilişkiler) çıkarılmış; çapraz kaynak doğrulaması ile veri kalitesi artırılmıştır.',
     methodText2: 'Coğrafi kodlama için al-Ṯurayyā ve modern GIS kaynakları birleştirilmiştir. İlişki ağları, kaynaklardaki hoca-talebe, muasır ve çapraz atıf bilgilerinden oluşturulmuştur.',
     citationTitle: 'Atıf',
-    citation: 'Çetinkaya, A. & Gökalp, H. (2025). tabakat.io: A Digital Atlas of Islamic Civilization Scholars. Selçuk Üniversitesi. https://tabakat.io',
+    citation: 'Gökalp, H. & Çetinkaya, A. (2026). tabakat.io: İslam Medeniyeti Âlimler Dijital Atlası. Selçuk Üniversitesi. https://tabakat.io',
     teamTitle: 'Ekip',
     licenseTitle: 'Lisans',
     licenseText: 'tabakat.io açık kaynaklı bir projedir. Veriler CC-BY-SA 4.0, kod MIT lisansı altında sunulmaktadır. Akademik kullanımda atıf zorunludur.',
@@ -188,7 +188,7 @@ const translations = {
     methodText1: 'A semi-automated NLP pipeline was used for data collection. Scholar information (name, death date, field, school, relationships) was extracted from biographical texts; cross-source validation improved data quality.',
     methodText2: 'Geographical coding combined al-Ṯurayyā with modern GIS sources. Relationship networks were constructed from teacher-student, contemporary, and cross-reference information in the sources.',
     citationTitle: 'Citation',
-    citation: 'Çetinkaya, A. & Gökalp, H. (2025). tabakat.io: A Digital Atlas of Islamic Civilization Scholars. Selçuk University. https://tabakat.io',
+    citation: 'Gökalp, H. & Çetinkaya, A. (2026). tabakat.io: A Digital Atlas of Islamic Civilization Scholars. Selçuk University. https://tabakat.io',
     teamTitle: 'Team',
     licenseTitle: 'License',
     licenseText: 'tabakat.io is an open-source project. Data is available under CC-BY-SA 4.0, code under the MIT license. Citation is required for academic use.',
