@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/tabakat-io/',
+  // base removed for custom domain
   plugins: [react()],
   build: {
     rollupOptions: {
