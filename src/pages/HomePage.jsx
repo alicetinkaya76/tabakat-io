@@ -288,7 +288,7 @@ export default function HomePage() {
                 <span className="text-xs text-ink-400 dark:text-sand-500 ml-2 font-mono font-normal">v7.0</span>
               </p>
               <p className="text-xs text-ink-400 dark:text-sand-500 mt-1.5 leading-relaxed">
-                Dr. Ali Çetinkaya & Dr. Hüseyin Gökalp<br />
+                Dr. Hüseyin Gökalp & Dr. Ali Çetinkaya<br />
                 Selçuk Üniversitesi, Konya
               </p>
             </div>
