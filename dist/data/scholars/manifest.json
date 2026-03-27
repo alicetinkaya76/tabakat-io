@@ -1,0 +1,187 @@
+{
+  "dia_a": {
+    "file": "dia_a.json",
+    "count": 996,
+    "size_kb": 859
+  },
+  "dia_b": {
+    "file": "dia_b.json",
+    "count": 473,
+    "size_kb": 418
+  },
+  "dia_c": {
+    "file": "dia_c.json",
+    "count": 308,
+    "size_kb": 263
+  },
+  "dia_d": {
+    "file": "dia_d.json",
+    "count": 227,
+    "size_kb": 186
+  },
+  "dia_e": {
+    "file": "dia_e.json",
+    "count": 638,
+    "size_kb": 642
+  },
+  "dia_f": {
+    "file": "dia_f.json",
+    "count": 194,
+    "size_kb": 179
+  },
+  "dia_g": {
+    "file": "dia_g.json",
+    "count": 165,
+    "size_kb": 115
+  },
+  "dia_h": {
+    "file": "dia_h.json",
+    "count": 748,
+    "size_kb": 710
+  },
+  "dia_i": {
+    "file": "dia_i.json",
+    "count": 1074,
+    "size_kb": 1324
+  },
+  "dia_k": {
+    "file": "dia_k.json",
+    "count": 502,
+    "size_kb": 466
+  },
+  "dia_l": {
+    "file": "dia_l.json",
+    "count": 70,
+    "size_kb": 49
+  },
+  "dia_m": {
+    "file": "dia_m.json",
+    "count": 918,
+    "size_kb": 860
+  },
+  "dia_n": {
+    "file": "dia_n.json",
+    "count": 243,
+    "size_kb": 257
+  },
+  "dia_o": {
+    "file": "dia_o.json",
+    "count": 93,
+    "size_kb": 71
+  },
+  "dia_r": {
+    "file": "dia_r.json",
+    "count": 181,
+    "size_kb": 166
+  },
+  "dia_s": {
+    "file": "dia_s.json",
+    "count": 818,
+    "size_kb": 802
+  },
+  "dia_t": {
+    "file": "dia_t.json",
+    "count": 267,
+    "size_kb": 232
+  },
+  "dia_u": {
+    "file": "dia_u.json",
+    "count": 132,
+    "size_kb": 120
+  },
+  "dia_v": {
+    "file": "dia_v.json",
+    "count": 86,
+    "size_kb": 92
+  },
+  "dia_y": {
+    "file": "dia_y.json",
+    "count": 143,
+    "size_kb": 160
+  },
+  "dia_z": {
+    "file": "dia_z.json",
+    "count": 157,
+    "size_kb": 187
+  },
+  "alam_1": {
+    "file": "alam_1.json",
+    "count": 4204,
+    "size_kb": 3097
+  },
+  "alam_2": {
+    "file": "alam_2.json",
+    "count": 895,
+    "size_kb": 651
+  },
+  "alam_3": {
+    "file": "alam_3.json",
+    "count": 877,
+    "size_kb": 608
+  },
+  "alam_4": {
+    "file": "alam_4.json",
+    "count": 904,
+    "size_kb": 629
+  },
+  "alam_5": {
+    "file": "alam_5.json",
+    "count": 875,
+    "size_kb": 665
+  },
+  "alam_6": {
+    "file": "alam_6.json",
+    "count": 884,
+    "size_kb": 642
+  },
+  "alam_7": {
+    "file": "alam_7.json",
+    "count": 907,
+    "size_kb": 672
+  },
+  "alam_8": {
+    "file": "alam_8.json",
+    "count": 919,
+    "size_kb": 630
+  },
+  "alam_9": {
+    "file": "alam_9.json",
+    "count": 887,
+    "size_kb": 689
+  },
+  "dia_j": {
+    "file": "dia_j.json",
+    "count": 11,
+    "size_kb": 6
+  },
+  "dia_p": {
+    "file": "dia_p.json",
+    "count": 62,
+    "size_kb": 41
+  },
+  "dia_w": {
+    "file": "dia_w.json",
+    "count": 17,
+    "size_kb": 10
+  },
+  "dia_q": {
+    "file": "dia_q.json",
+    "count": 2,
+    "size_kb": 1
+  },
+  "tab": {
+    "file": "tab.json",
+    "count": 2258,
+    "size_kb": 1973
+  },
+  "ei1": {
+    "file": "ei1.json",
+    "count": 911,
+    "size_kb": 529
+  },
+  "atlas": {
+    "file": "atlas.json",
+    "count": 96,
+    "size_kb": 161
+  }
+}
