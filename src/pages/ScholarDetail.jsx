@@ -146,6 +146,11 @@ export default function ScholarDetail() {
 
   const switchTab = (key) => { setActiveTab(key); setTabKey(k => k + 1); };
 
+
+  const matchedBooks = useMemo(() => {
+    if (!scholar?.book_list?.length || !bookMeta?.length) return [];
+    return bookMeta.filter(b => scholar.book_list.includes(b.openiti_uri));
+  }, [scholar?.book_list, bookMeta]);
   if (loading) return <Loading />;
   if (!scholar) return <NotFoundScholar id={decodedId} lang={lang} />;
 
@@ -164,11 +169,6 @@ export default function ScholarDetail() {
   // Check if this scholar appears in global silsile edges for tree view
   const hasSilsileTree = allSilsileEdges.some(e => e.source === decodedId || e.target === decodedId);
 
-  // Match books by book_list URIs
-  const matchedBooks = useMemo(() => {
-    if (!scholar.book_list?.length || !bookMeta?.length) return [];
-    return bookMeta.filter(b => scholar.book_list.includes(b.openiti_uri));
-  }, [scholar.book_list, bookMeta]);
 
   const tabs = [
     { key: 'bio', label: getLabel('biography', lang), show: true },
