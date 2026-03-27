@@ -315,7 +315,7 @@ export default function HomePage() {
 }
 
 const TR = {
-  kicker: 'İslam Medeniyeti Dijital Atlası',
+  kicker: 'İslam Âlimleri Dijital Atlası',
   subtitle: '23.000\'den fazla âlimin biyografileri, ilişki ağları, eğitim rotaları ve silsile zincirleri — tek bir araştırma platformunda.',
   explore: 'Keşfet',
   openMap: 'Haritayı Aç',
@@ -338,7 +338,7 @@ const TR = {
 };
 
 const EN = {
-  kicker: 'Islamic Civilization Digital Atlas',
+  kicker: 'Digital Atlas of Islamic Scholars',
   subtitle: 'Biographies, relationship networks, education routes, and chains of transmission of over 23,000 scholars — in one research platform.',
   explore: 'Explore',
   openMap: 'Open Map',
