@@ -160,6 +160,7 @@ export function LangProvider({ children }) {
     setLang(prev => {
       const next = prev === 'tr' ? 'en' : prev === 'en' ? 'ar' : 'tr';
       localStorage.setItem('tabakat-lang', next);
+      document.documentElement.dir = next === 'ar' ? 'rtl' : 'ltr';
       return next;
     });
   }, []);
@@ -210,3 +211,4 @@ export function ThemeProvider({ children }) {
 export function useTheme() {
   return useContext(ThemeContext);
 }
+

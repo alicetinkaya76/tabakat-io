@@ -1,5 +1,5 @@
 import { HashRouter, Routes, Route } from 'react-router-dom';
-import { LangProvider, ThemeProvider, useLang } from './utils/data';
+import { LangProvider, ThemeProvider } from './utils/data';
 import Navbar from './components/Navbar';
 import CmdKSearch from './components/CmdKSearch';
 import ErrorBoundary from './components/ErrorBoundary';
@@ -28,7 +28,7 @@ export default function App() {
     <ThemeProvider>
       <LangProvider>
         <HashRouter>
-          <div dir={lang === "ar" ? "rtl" : "ltr"} className="min-h-screen bg-sand-50 dark:bg-ink-950 bg-pattern-geo transition-colors duration-300">
+          <div className="min-h-screen bg-sand-50 dark:bg-ink-950 bg-pattern-geo transition-colors duration-300">
             <a href="#main-content" className="skip-to-content">Skip to content</a>
             <Navbar />
             <CmdKSearch />
