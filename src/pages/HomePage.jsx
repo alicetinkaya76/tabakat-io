@@ -76,7 +76,7 @@ export default function HomePage() {
     .filter(([k]) => ERA_LABELS[k])
     .sort((a, b) => (ERA_LABELS[a[0]]?.order ?? 99) - (ERA_LABELS[b[0]]?.order ?? 99));
 
-  const t = lang === 'tr' ? TR : EN;
+  const t = lang === 'tr' ? TR : lang === 'ar' ? AR : EN;
 
   return (
     <div className="min-h-screen">
@@ -358,4 +358,27 @@ const EN = {
   exploreMadrasas: '🏛 Madrasas',
   viewNetwork: '⬡ Network',
   aboutProject: 'ⓘ About',
+};
+
+const AR = {
+  kicker: 'الأطلس الرقمي لعلماء الإسلام',
+  subtitle: 'سِيَر وشبكات علاقات ومسارات تعليم وأسانيد لأكثر من 23,000 عالم — في منصة بحثية واحدة.',
+  explore: 'استكشف',
+  openMap: 'افتح الخريطة',
+  scholars: 'عالم',
+  relations: 'علاقة',
+  mapped: 'على الخريطة',
+  featuredScholars: 'علماء مميزون',
+  fieldsTitle: 'مجالات العلم',
+  fieldsDesc: 'التوزيع التاريخي لإنتاج المعرفة',
+  viewAll: 'عرض الكل',
+  erasTitle: 'العصور التاريخية',
+  erasDesc: 'حقب الحضارة الإسلامية',
+  viewTimeline: 'الخط الزمني',
+  ctaTitle: 'استكشف قاعدة البيانات',
+  ctaDesc: 'كتب الطبقات والمدارس وشبكات الأسانيد والمزيد',
+  browseBooks: '📚 كتب الطبقات',
+  exploreMadrasas: '🏛 المدارس',
+  viewNetwork: '⬡ الشبكة',
+  aboutProject: 'ⓘ حول',
 };
