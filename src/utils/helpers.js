@@ -109,6 +109,7 @@ export function parseName(n) {
 // Scholar display name
 export function getDisplayName(scholar, lang = 'tr') {
   // If scholar has proper name fields, use them
+  if (lang === 'ar' && scholar.name_ar) return scholar.name_ar;
   if (lang === 'en' && scholar.name_en) return scholar.name_en;
   if (lang === 'tr' && scholar.name_tr) return scholar.name_tr;
   // Fallback: parse from combined 'n' field (search index)

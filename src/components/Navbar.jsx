@@ -166,10 +166,10 @@ export default function Navbar() {
             <button
               onClick={toggleLang}
               className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-sand-200/60 dark:hover:bg-ink-700/60 transition-colors text-[11px] font-mono font-bold text-ink-500 dark:text-sand-400"
-              title={lang === 'tr' ? 'Switch to English' : 'Türkçeye geç'}
-              aria-label={lang === 'tr' ? 'Switch to English' : 'Türkçeye geç'}
+              title={lang === 'tr' ? 'Switch to English' : lang === 'en' ? 'العربية' : 'Türkçeye geç'}
+              aria-label={lang === 'tr' ? 'Switch to English' : lang === 'en' ? 'العربية' : 'Türkçeye geç'}
             >
-              {lang === 'tr' ? 'EN' : 'TR'}
+              {lang === 'tr' ? 'EN' : lang === 'en' ? 'عر' : 'TR'}
             </button>
 
             {/* Theme */}

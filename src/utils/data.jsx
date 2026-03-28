@@ -28,9 +28,9 @@ export async function getSearchIndex() {
       { name: 'n', weight: 0.7 },
       { name: 'id', weight: 0.3 },
     ],
-    threshold: 0.35,
-    distance: 100,
-    minMatchCharLength: 2,
+    threshold: 0.4,
+    distance: 200,
+    minMatchCharLength: 1,
   });
   return { fuse: fuseInstance, data: searchData };
 }
@@ -158,7 +158,7 @@ export function LangProvider({ children }) {
 
   const toggleLang = useCallback(() => {
     setLang(prev => {
-      const next = prev === 'tr' ? 'en' : 'tr';
+      const next = prev === 'tr' ? 'en' : prev === 'en' ? 'ar' : 'tr';
       localStorage.setItem('tabakat-lang', next);
       return next;
     });
