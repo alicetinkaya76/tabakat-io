@@ -1,9 +1,9 @@
 {
-  "total_scholars": 23142,
-  "total_edges": 28531,
-  "geocoded": 9097,
+  "total_scholars": 9457,
+  "total_edges": 28490,
+  "geocoded": 12206,
   "with_narrative": 882,
-  "with_silsile": 622,
+  "with_silsile": 731,
   "with_dia": 8525,
   "with_notable_work": 2224,
   "fields": {
@@ -71,10 +71,10 @@
   },
   "edge_types": {
     "DIA_CROSS_REF": 16336,
-    "TEACHER_OF": 5877,
+    "TEACHER_OF": 5846,
     "CONTEMPORARY": 3924,
-    "STUDENT_OF": 2249,
-    "SILSILE": 141,
+    "STUDENT_OF": 2239,
+    "SILSILE": 790,
     "MADRASA_PEER": 4
   },
   "centuries": {

@@ -2,2004 +2,4744 @@
   {
     "source": "dia:nehai",
     "target": "dia:suleyman",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:suleyman",
     "target": "dia:ebu-hanife",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-hanife",
     "target": "dia:ebu-yusuf",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:9313",
     "target": "dia:ahmed-b-hanbel",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ahmed-b-hanbel",
     "target": "atlas:405",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "atlas:405",
     "target": "dia:muhammed-b-abdulvehhab",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:buhari-muhammed-b-ismail",
     "target": "dia:ibn-hacer-el-askalani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:buhari-muhammed-b-ismail",
     "target": "dia:muslim-b-haccac",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:muslim-b-haccac",
     "target": "dia:nevevi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "atlas:436",
     "target": "dia:cuveyni-imamul-haremeyn",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:cuveyni-imamul-haremeyn",
     "target": "alam:1040",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:1040",
     "target": "atlas:337",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:337",
     "target": "dia:teftazani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:teftazani",
     "target": "dia:ebu-musa-el-esari",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:405",
     "target": "dia:ibn-kayyim-el-cevziyye",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-kayyim-el-cevziyye",
     "target": "dia:muhammed-b-abdulvehhab",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:muhammed-b-abdulvehhab",
     "target": "dia:ahmed-b-hanbel",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "alam:13612",
     "target": "dia:farabi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:farabi",
     "target": "atlas:351",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:350",
     "target": "alam:11481",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:418",
     "target": "atlas:368",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-haldun",
     "target": "atlas:386",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:351",
     "target": "atlas:438",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:379",
     "target": "atlas:376",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:376",
     "target": "dia:nabi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:346",
     "target": "atlas:382",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:382",
     "target": "alam:7390",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:7390",
     "target": "dia:ibn-haldun",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-battuta",
     "target": "atlas:359",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:11481",
     "target": "atlas:351",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:11481",
     "target": "atlas:343",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:343",
     "target": "atlas:438",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-hanife",
     "target": "dia:maturidi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
   },
   {
     "source": "atlas:436",
     "target": "alam:10132",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:10132",
     "target": "dia:cuveyni-imamul-haremeyn",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:346",
     "target": "atlas:388",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:388",
     "target": "atlas:382",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:buhari-muhammed-b-ismail",
     "target": "dia:nevevi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:nevevi",
     "target": "dia:ibn-hacer-el-askalani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-hacer-el-askalani",
     "target": "dia:suyuti",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "atlas:351",
     "target": "dia:ibnun-nefis",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:5970",
     "target": "dia:mucahid-b-cebr",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:304",
     "target": "atlas:309",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:309",
     "target": "dia:nehai",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:nehai",
     "target": "dia:muhammed-b-abdulvehhab",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:muhammed-b-abdulvehhab",
     "target": "dia:ebu-hanife",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-hureyre",
     "target": "atlas:305",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:305",
     "target": "dia:zuhri",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:307",
     "target": "dia:zuhri",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-hureyre",
     "target": "dia:ibn-sirin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:mucahid-b-cebr",
     "target": "dia:sufyan-es-sevri",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-sirin",
     "target": "atlas:311",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "atlas:307",
     "target": "dia:ibn-kesir-ebu-mabed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:kisai-ali-b-hamza",
     "target": "alam:13360",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:cahiz",
     "target": "dia:ibn-kuteybe",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:382",
     "target": "dia:mesudi-ali-b-huseyin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:hattabi",
     "target": "dia:nevevi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:darekutni",
     "target": "dia:beyhaki-ahmed-b-huseyin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:beyhaki-ahmed-b-huseyin",
     "target": "alam:9313",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "atlas:153",
     "target": "dia:ibn-ebu-hatim",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:11074",
     "target": "dia:ebu-ubeyd-el-bekri",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:said-b-cubeyr",
     "target": "dia:ibn-battuta",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "atlas:337",
     "target": "dia:ici-adududdin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ici-adududdin",
     "target": "dia:ebu-musa-el-esari",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:9313",
     "target": "dia:nevevi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:nevevi",
     "target": "dia:suyuti",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:tusi-nasiruddin",
     "target": "dia:kutbuddin-i-sirazi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:kutbuddin-i-sirazi",
     "target": "dia:kemaleddin-el-farisi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ahmed-b-hanbel",
     "target": "alam:5229",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "atlas:351",
     "target": "atlas:461",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:405",
     "target": "atlas:449",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-haldun",
     "target": "dia:makrizi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ulug-bey",
     "target": "dia:ali-kuscu",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:tusi-nasiruddin",
     "target": "dia:ulug-bey",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:10681",
     "target": "atlas:374",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ali-kuscu",
     "target": "atlas:419",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:efgani-cemaleddin",
     "target": "ei1:muhammad-c-abduh",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "ei1:muhammad-c-abduh",
     "target": "atlas:440",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:8728",
     "target": "dia:ibn-sirin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "alam:5970",
     "target": "dia:said-b-cubeyr",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "atlas:304",
     "target": "dia:mesruk-b-ecda",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:taha-huseyin",
     "target": "dia:zeynelabidin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:zeynelabidin",
     "target": "alam:10613",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:10613",
     "target": "dia:cafer-es-sadik",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:cafer-es-sadik",
     "target": "dia:ebu-hanife",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:hasan-i-basri",
     "target": "ei1:wasil-b",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "ei1:wasil-b",
     "target": "dia:amr-b-ubeyd",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:hasan-i-basri",
     "target": "dia:amr-b-ubeyd",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "alam:5970",
     "target": "dia:ebul-aliye-er-riyahi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:5970",
     "target": "alam:6822",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:buhari-muhammed-b-ismail",
     "target": "dia:tirmizi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ahmed-b-hanbel",
     "target": "dia:ebu-davud-es-sicistani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:hakim-en-nisaburi",
     "target": "dia:beyhaki-ahmed-b-huseyin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:abdurrezzak-es-sanani",
     "target": "dia:ahmed-b-hanbel",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "alam:6691",
     "target": "dia:buhari-muhammed-b-ismail",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "alam:7223",
     "target": "dia:buhari-muhammed-b-ismail",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "atlas:328",
     "target": "dia:ibn-tufeyl",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-tufeyl",
     "target": "atlas:438",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:1040",
     "target": "dia:ibnul-arabi-ebu-bekir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-kuteybe",
     "target": "dia:batalyevsi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:1040",
     "target": "dia:ibn-tumert",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:farabi",
     "target": "atlas:328",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-hayyan-el-endelusi",
     "target": "atlas:388",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:341",
     "target": "atlas:185",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:tusi-nasiruddin",
     "target": "atlas:459",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:459",
     "target": "atlas:188",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:461",
     "target": "dia:bahaeddin-zekeriyya",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:bahaeddin-zekeriyya",
     "target": "atlas:461",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:197",
     "target": "dia:nizameddin-evliya",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:nizameddin-evliya",
     "target": "atlas:199",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:212",
     "target": "dia:muhammed-bello",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:tusi-nasiruddin",
     "target": "dia:kemaleddin-el-farisi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:242",
     "target": "atlas:243",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:334",
     "target": "atlas:457",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:farabi",
     "target": "dia:ibn-miskeveyh",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-miskeveyh",
     "target": "alam:1040",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:1040",
     "target": "atlas:438",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:461",
     "target": "atlas:334",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ici-adududdin",
     "target": "dia:teftazani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:teftazani",
     "target": "dia:ibn-hacer-el-askalani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ici-adududdin",
     "target": "dia:curcani-seyyid-serif",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:curcani-seyyid-serif",
     "target": "dia:suyuti",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:gazzali",
     "target": "atlas:337",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibnun-nefis",
     "target": "atlas:351",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:cafer-es-sadik",
     "target": "atlas:350",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:seydi-ali-reis",
     "target": "atlas:386",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:351",
     "target": "dia:tusi-nasiruddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-yunus-ebul-hasan",
     "target": "atlas:366",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:366",
     "target": "atlas:361",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:361",
     "target": "dia:tusi-nasiruddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "atlas:368",
     "target": "dia:ibnus-satir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibnus-satir",
     "target": "atlas:419",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:mutenebbi",
     "target": "dia:ebul-ala-el-maarri",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:hatib-el-bagdadi",
     "target": "atlas:382",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "ei1:ahmed-yesewl",
     "target": "atlas:392",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ahmed-b-hanbel",
     "target": "dia:abdulkadir-i-geylani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "atlas:440",
     "target": "atlas:406",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:itri-efendi-buhurizade",
     "target": "dia:kutbi-dede-efendi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:zeyd-b-sabit",
     "target": "dia:hatib-el-bagdadi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:gazzali",
     "target": "alam:11481",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-hayyan",
     "target": "atlas:444",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:harizmi-muhammed-b-musa",
     "target": "alam:13612",
     "type": "MADRASA_PEER",
-    "madrasa": "House of Wisdom"
+    "madrasa": "House of Wisdom",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:harizmi-muhammed-b-musa",
     "target": "dia:farabi",
     "type": "MADRASA_PEER",
-    "madrasa": "House of Wisdom"
+    "madrasa": "House of Wisdom",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:gazzali",
     "target": "dia:ibn-sina",
     "type": "MADRASA_PEER",
-    "madrasa": "Nizamiyya of Baghdad"
+    "madrasa": "Nizamiyya of Baghdad",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:kelbi-hisam-b-muhammed",
     "target": "dia:ahmed-b-hanbel",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ahmed-b-hanbel",
     "target": "dia:dineveri-ebu-hanife",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ahmed-b-hanbel",
     "target": "dia:abdullah-b-ahmed-b-hanbel",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ahmed-b-hanbel",
     "target": "dia:razi-ebu-bekir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:abdullah-b-ahmed-b-hanbel",
     "target": "dia:hallal-ebu-bekir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:hallal-ebu-bekir",
     "target": "dia:gulamul-hallal",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:gulamul-hallal",
     "target": "dia:ebu-yala-el-ferra",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-yala-el-ferra",
     "target": "dia:ibn-berhan",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-berhan",
     "target": "dia:ibnul-cevzi-ebul-ferec",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibnul-cevzi-ebul-ferec",
     "target": "dia:ibn-teymiyye-fahreddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-teymiyye-fahreddin",
     "target": "dia:ibn-teymiyye-mecduddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-teymiyye-mecduddin",
     "target": "dia:ibn-cemaa-bedreddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-cemaa-bedreddin",
     "target": "dia:ibn-kayyim-el-cevziyye",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:muhammed",
     "target": "dia:abdullah-b-huzafe",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdullah-b-huzafe",
     "target": "dia:alkame-b-kays",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:alkame-b-kays",
     "target": "alam:1686",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:1686",
     "target": "dia:ibn-ebu-muleyke",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-ebu-muleyke",
     "target": "dia:ebu-amr-b-ala",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
   },
   {
     "source": "dia:ebu-amr-b-ala",
     "target": "dia:ebu-yusuf",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
   },
   {
     "source": "dia:ebu-amr-b-ala",
     "target": "dia:seybani-muhammed-b-hasan",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
   },
   {
     "source": "dia:ebu-amr-b-ala",
     "target": "dia:zufer-b-huzeyl",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
   },
   {
     "source": "dia:ebu-amr-b-ala",
     "target": "dia:kerhi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
   },
   {
     "source": "dia:ebu-yusuf",
     "target": "alam:2871",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:seybani-muhammed-b-hasan",
     "target": "dia:ebu-ganim",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:seybani-muhammed-b-hasan",
     "target": "dia:isa-b-eban",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:seybani-muhammed-b-hasan",
     "target": "dia:ebu-hafs-el-kebir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-hafs-el-kebir",
     "target": "dia:ebu-hafs-el-haddad",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:ebu-hafs-el-haddad",
     "target": "dia:cafer-b-mansurul-yemen",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:ebu-hafs-el-haddad",
     "target": "dia:sibli-ebu-bekir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:mutemid-alellah-ahmed-b-cafer",
     "target": "dia:tahavi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:tahavi",
     "target": "dia:cessas",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:11050",
     "target": "dia:ebheri-ebu-bekir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:cafer-b-mansurul-yemen",
     "target": "dia:harizmi-muhammed-b-ahmed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:nesefi-necmeddin",
     "target": "dia:merginani-burhaneddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:semerkandi-alaeddin",
     "target": "dia:kasani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:semerkandi-alaeddin",
     "target": "dia:tekis-alaeddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:desuki-muhammed-b-ahmed",
     "target": "dia:ibn-abidin-muhammed-emin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:muhammed",
     "target": "alam:7647",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:7647",
     "target": "dia:abdullah-b-cafer-b-ebu-talib",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:abdullah-b-cafer-b-ebu-talib",
     "target": "atlas:306",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:abdullah-b-cafer-b-ebu-talib",
     "target": "dia:yusuf-b-omer-es-sekafi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:yusuf-b-omer-es-sekafi",
     "target": "dia:malik-b-enes",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "atlas:306",
     "target": "dia:malik-b-enes",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:malik-b-enes",
     "target": "dia:ebul-bahteri-vehb-b-vehb",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:malik-b-enes",
     "target": "dia:esheb-el-kaysi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:malik-b-enes",
     "target": "dia:yahya-b-eksem",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:sahnun",
     "target": "dia:buhari-muhammed-b-ismail",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:sahnun",
     "target": "dia:ibn-ebu-zeyd",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:mazeri",
     "target": "dia:kadi-iyaz",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-teymiyye-fahreddin",
     "target": "dia:karafi-sehabeddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-kadi-aclun-takiyyuddin",
     "target": "dia:hattab",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:malik-b-enes",
     "target": "dia:kelbi-hisam-b-muhammed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:kelbi-hisam-b-muhammed",
     "target": "dia:yahya-b-muaz",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:kelbi-hisam-b-muhammed",
     "target": "dia:rebi-b-suleyman-el-muradi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:muzeni",
     "target": "dia:ibn-hurrem",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:yahya-b-muaz",
     "target": "dia:ibn-hurrem",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:ibn-hurrem",
     "target": "dia:isferayini-ebu-hamid",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:isferayini-ebu-hamid",
     "target": "dia:taberi-ebut-tayyib",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:maliki-muhammed-ali",
     "target": "dia:cuveyni-imamul-haremeyn",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:taberi-ebut-tayyib",
     "target": "dia:maverdi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:taberi-ebut-tayyib",
     "target": "dia:ebu-maser-et-taberi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-maser-et-taberi",
     "target": "dia:ebu-ubeyd-el-bekri",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:cuveyni-imamul-haremeyn",
     "target": "dia:gazzali",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-ubeyd-el-bekri",
     "target": "dia:ebu-davud-suleyman-b-necah",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibnus-salah-es-sehrezuri",
     "target": "dia:nevevi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:subki-takiyyuddin",
     "target": "dia:bulkini-omer-b-reslan",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:bulkini-omer-b-reslan",
     "target": "dia:zekeriyya-el-ensari",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:zekeriyya-el-ensari",
     "target": "dia:ibn-hacer-el-heytemi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdullah-b-hasan-el-bagdadi",
     "target": "dia:ibn-mende-ebu-abdullah",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-mende-ebu-abdullah",
     "target": "alam:5599",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:esari-ebul-hasan",
     "target": "dia:amiri-ebul-hasan",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:amiri-ebul-hasan",
     "target": "alam:10132",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:amiri-ebul-hasan",
     "target": "dia:ibn-hamid",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:10132",
     "target": "dia:abdulkahir-el-bagdadi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-hamid",
     "target": "dia:kuseyri-abdulkerim-b-hevazin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdulkahir-el-bagdadi",
     "target": "dia:kuseyri-abdulkerim-b-hevazin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:kuseyri-abdulkerim-b-hevazin",
     "target": "dia:cuveyni-imamul-haremeyn",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:fahreddin-er-razi",
     "target": "dia:ici-adududdin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:vasil-b-ata",
     "target": "dia:amr-b-ubeyd",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
   },
   {
     "source": "dia:belhi-ebu-zeyd",
     "target": "dia:kadi-abdulcebbar",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:hasan-i-basri",
     "target": "dia:vasil-b-ata",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:amr-b-ubeyd",
     "target": "dia:ebul-huzeyl-el-allaf",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
   },
   {
     "source": "dia:ebul-huzeyl-el-allaf",
     "target": "dia:nazzam",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
   },
   {
     "source": "dia:ebul-huzeyl-el-allaf",
     "target": "dia:belhi-ebu-ali",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:belhi-ebu-ali",
     "target": "dia:belhi-ebu-zeyd",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:belhi-ebu-zeyd",
     "target": "dia:kadi-abdulvehhab",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-yusuf",
     "target": "dia:seybani-muhammed-b-hasan",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-ebu-hatim",
     "target": "dia:ibn-mahled-ebul-kasim",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-ebu-hatim",
     "target": "dia:hakim-es-semerkandi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
   },
   {
     "source": "dia:ibn-mahled-ebul-kasim",
     "target": "dia:pezdevi-ebul-yusr",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:pezdevi-ebul-yusr",
     "target": "dia:nesefi-ebul-muin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:nesefi-ebul-muin",
     "target": "dia:sabuni-nureddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
   },
   {
     "source": "dia:nesefi-ebul-muin",
     "target": "dia:nesefi-necmeddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:muhammed",
     "target": "dia:abdullah-b-cafer-b-ebu-talib",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:muhammed",
     "target": "dia:akil-b-ebu-talib",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:muhammed",
     "target": "alam:4790",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:4790",
     "target": "dia:urve-b-zubeyr",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:akil-b-ebu-talib",
     "target": "dia:arec-abdurrahman-b-hurmuz",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:akil-b-ebu-talib",
     "target": "dia:ibn-ebu-muleyke",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:urve-b-zubeyr",
     "target": "dia:hisam-b-urve",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-ebu-muleyke",
     "target": "dia:malik-b-enes",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:hisam-b-urve",
     "target": "dia:malik-b-enes",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:malik-b-enes",
     "target": "dia:kuteybe-b-said",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:veki-b-cerrah",
     "target": "dia:ahmed-b-hanbel",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:abdurrahman-b-mehdi",
     "target": "dia:ahmed-b-hanbel",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:sufyan-b-uyeyne",
     "target": "dia:humeydi-abdullah-b-zubeyr",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:sufyan-b-uyeyne",
     "target": "dia:ahmed-b-hanbel",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:humeydi-abdullah-b-zubeyr",
     "target": "dia:buhari-muhammed-b-ismail",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:yahya-b-eksem",
     "target": "dia:buhari-muhammed-b-ismail",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:hulvani-hasan-b-ali",
     "target": "dia:buhari-muhammed-b-ismail",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-aise-ubeydullah-b-muhammed",
     "target": "alam:12009",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-aise-ubeydullah-b-muhammed",
     "target": "dia:dineveri-ebu-hanife",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-aise-ubeydullah-b-muhammed",
     "target": "dia:ibn-ebu-hayseme",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ishak-el-mevsili",
     "target": "dia:buhari-muhammed-b-ismail",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ishak-el-mevsili",
     "target": "alam:12009",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:kuteybe-b-said",
     "target": "alam:12009",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:kuteybe-b-said",
     "target": "dia:dineveri-ebu-hanife",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:kuteybe-b-said",
     "target": "dia:nesai",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:kuteybe-b-said",
     "target": "dia:ibn-ebu-hayseme",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ahmed-b-hanbel",
     "target": "dia:buhari-muhammed-b-ismail",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ahmed-b-hanbel",
     "target": "alam:12009",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:sicistani-ebu-hatim",
     "target": "alam:12009",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:sicistani-ebu-hatim",
     "target": "dia:ibn-ebu-hayseme",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:buhari-muhammed-b-ismail",
     "target": "dia:buhari-muhammed-b-ismail",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:buhari-muhammed-b-ismail",
     "target": "alam:12009",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:darekutni",
     "target": "dia:hakim-en-nisaburi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ishak-el-mevsili",
     "target": "dia:muslim-b-haccac",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:buhari-muhammed-b-ismail",
     "target": "dia:dineveri-ebu-hanife",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-bessam-el-bagdadi",
     "target": "alam:1264",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:1264",
     "target": "dia:bulkini-omer-b-reslan",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:bulkini-omer-b-reslan",
     "target": "dia:munavi-yahya-b-muhammed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:munavi-yahya-b-muhammed",
     "target": "dia:dede-omer-ruseni",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:munavi-yahya-b-muhammed",
     "target": "dia:sunbul-sinan",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:dede-omer-ruseni",
     "target": "dia:ibrahim-gulseni",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:sunbul-sinan",
     "target": "dia:civizade-muhyiddin-mehmed-efendi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-mende-ebu-zekeriyya",
     "target": "dia:abdulkadir-i-geylani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:muhammed",
     "target": "dia:ali",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ali",
     "target": "dia:hasan-i-basri",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:hasan-i-basri",
     "target": "dia:yezid-b-ebu-habib",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:yezid-b-ebu-habib",
     "target": "dia:davud-et-tai",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:davud-et-tai",
     "target": "dia:maruf-i-kerhi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:maruf-i-kerhi",
     "target": "alam:3909",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "alam:3909",
     "target": "dia:ibn-bessam-el-bagdadi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:5507",
     "target": "alam:1648",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:1648",
     "target": "dia:ibn-mende-ebu-zekeriyya",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdulkadir-i-geylani",
     "target": "alam:5445",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:abdulkadir-i-geylani",
     "target": "dia:cezuli-isa-b-abdulaziz",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:ibn-seddad-bahaeddin",
     "target": "dia:mevlana-celaleddin-i-rumi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:mevlana-celaleddin-i-rumi",
     "target": "dia:husameddin-celebi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:mevlana-celaleddin-i-rumi",
     "target": "dia:sultan-veled",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:sultan-veled",
     "target": "dia:arif-celebi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:muhammed",
     "target": "dia:ebu-bekir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-bekir",
     "target": "dia:selman-i-farisi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:selman-i-farisi",
     "target": "dia:kasim-b-muhammed-b-ebu-bekir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:kasim-b-muhammed-b-ebu-bekir",
     "target": "dia:cafer-es-sadik",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:cafer-es-sadik",
     "target": "dia:bayezid-i-bistami",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:bayezid-i-bistami",
     "target": "dia:ibn-yunus-ebul-hasan",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:ibn-yunus-ebul-hasan",
     "target": "dia:baharzi-ali-b-hasan",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:baharzi-ali-b-hasan",
     "target": "dia:ali-b-yusuf-b-tasfin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ali-b-yusuf-b-tasfin",
     "target": "dia:gucduvani-abdulhalik",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:kelabazi-mahmud-b-ebu-bekir",
     "target": "alam:12697",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "alam:12697",
     "target": "dia:cezeri-muhammed-b-ibrahim",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:cezeri-muhammed-b-ibrahim",
     "target": "alam:12368",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:12368",
     "target": "dia:subki-bahaeddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:subki-bahaeddin",
     "target": "dia:alaeddin-attar",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:subki-bahaeddin",
     "target": "dia:aise-bint-muhammed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:alaeddin-attar",
     "target": "dia:yakub-i-cerhi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:yakub-i-cerhi",
     "target": "dia:ubeydullah-ahrar",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:ubeydullah-ahrar",
     "target": "dia:ebu-abdullah-muhammed-b-ali",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:ebu-abdullah-muhammed-b-ali",
     "target": "dia:ceziri-abdulkadir-b-muhammed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ceziri-abdulkadir-b-muhammed",
     "target": "alam:11399",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:11399",
     "target": "dia:makkari-ahmed-b-muhammed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:makkari-ahmed-b-muhammed",
     "target": "dia:hafaci-muhammed-abdulmunim",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdullah-ed-dihlevi",
     "target": "dia:halid-el-bagdadi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:sadaka-b-mansur",
     "target": "dia:attabi-ahmed-b-muhammed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ali-b-yusuf-b-tasfin",
     "target": "dia:gafiki-ahmed-b-muhammed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:gafiki-ahmed-b-muhammed",
     "target": "dia:hakim-ata",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:hakim-ata",
     "target": "alam:781",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:781",
     "target": "dia:cuveyni-ata-melik",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:cuveyni-ata-melik",
     "target": "dia:sadrusseria",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-bessam-el-bagdadi",
     "target": "dia:ebu-medyen",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:ebu-medyen",
     "target": "dia:abdusselam-b-mesis-el-haseni",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:ibn-ataullah-el-iskenderi",
     "target": "dia:zebidi-ahmed-b-ahmed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "alam:6101",
     "target": "dia:ebu-hamza-es-sari",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-hamza-es-sari",
     "target": "dia:abdurrahman-b-ebuz-zinad",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:abdurrahman-b-ebuz-zinad",
     "target": "dia:vers",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:muhammed",
     "target": "dia:ebu-eyyub-el-ensari",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-eyyub-el-ensari",
     "target": "dia:yahya-b-ebu-kesir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:yahya-b-ebu-kesir",
     "target": "dia:amr-b-haris",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:amr-b-haris",
     "target": "dia:duri",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:amr-b-haris",
     "target": "dia:susi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:zubeyr-b-avvam",
     "target": "dia:ebu-cafer-el-kari",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
   },
   {
     "source": "dia:ebu-cafer-el-kari",
     "target": "dia:ibn-lehia",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ebu-cafer-el-kari",
     "target": "dia:ibn-ebu-zib",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:suayb-b-ebu-hamza",
     "target": "dia:halef-b-hisam",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:halef-b-hisam",
     "target": "dia:ishak-b-imran",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:halef-b-hisam",
     "target": "dia:idris-b-abdulkerim",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:1686",
     "target": "dia:ames",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ames",
     "target": "dia:suayb-b-ebu-hamza",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:suayb-b-ebu-hamza",
     "target": "dia:hallad-b-halid",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:muhammed",
     "target": "dia:zubeyr-b-avvam",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-eyyub-el-ensari",
     "target": "dia:nasr-b-asim",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:yakub-el-hadrami",
     "target": "dia:ravh-b-abdulmumin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdullah-b-huzafe",
     "target": "dia:zir-b-hubeys",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ali",
     "target": "dia:abdurrahman-b-zeyd",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdurrahman-b-zeyd",
     "target": "alam:5260",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:zir-b-hubeys",
     "target": "alam:5260",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "alam:5260",
     "target": "dia:ebu-bekir-b-ayyas",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "alam:5260",
     "target": "dia:hafs-b-suleyman",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:muhammed",
     "target": "dia:abdullah-b-omer-b-hattab",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdullah-b-omer-b-hattab",
     "target": "dia:mucahid-b-cebr",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:mucahid-b-cebr",
     "target": "dia:ibn-ebu-muleyke",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-ebu-muleyke",
     "target": "dia:bezzi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-ebu-muleyke",
     "target": "dia:kunbul",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
   },
   {
     "source": "dia:muhammed",
     "target": "dia:osman-b-talha",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:osman-b-talha",
     "target": "dia:mugire-b-ebu-sihab",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:mugire-b-ebu-sihab",
     "target": "dia:ibn-ebu-muleyke",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-ebu-muleyke",
     "target": "dia:hisam-b-ammar",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ibn-ebu-muleyke",
     "target": "dia:ibn-zencuye",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ali",
     "target": "dia:ebul-esved-ed-dueli",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebul-esved-ed-dueli",
     "target": "dia:avn-b-abdullah",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:avn-b-abdullah",
     "target": "dia:isa-b-omer-es-sekafi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:isa-b-omer-es-sekafi",
     "target": "dia:halil-b-ahmed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:halil-b-ahmed",
     "target": "dia:sibeveyhi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:sibeveyhi",
     "target": "dia:ahfes-el-evsat",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ahfes-el-evsat",
     "target": "dia:muberred",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:muberred",
     "target": "dia:zeccac",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:muhammed",
     "target": "dia:abdullah-b-amir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdullah-b-amir",
     "target": "dia:mucahid-b-cebr",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdullah-b-amir",
     "target": "dia:ibn-sirin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:mucahid-b-cebr",
     "target": "dia:ibn-aise-muhammed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:katade-b-diame",
     "target": "dia:abdurrezzak-es-sanani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-aise-muhammed",
     "target": "dia:ibn-ebu-zib",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:yuhanna-b-maseveyh",
     "target": "dia:huneyn-b-ishak",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:huneyn-b-ishak",
     "target": "dia:ishak-b-imran",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:ebu-amr-b-ala",
     "target": "alam:2871",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
   },
   {
     "source": "dia:abdurrahman-b-ebu-bekir",
     "target": "dia:urve-b-zubeyr",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:urve-b-zubeyr",
     "target": "dia:ibn-ebu-muleyke",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdullah-b-amir",
     "target": "dia:ata-b-ebu-rebah",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ata-b-ebu-rebah",
     "target": "alam:12010",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ahmed-b-hanbel",
     "target": "dia:verrak-ebu-bekir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-cemaa-bedreddin",
     "target": "dia:zehebi",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:fahreddin-er-razi",
     "target": "dia:amidi-seyfeddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:sufyan-es-sevri",
     "target": "dia:veki-b-cerrah",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-hacer-el-askalani",
     "target": "dia:sehavi-semseddin",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ibn-bessam-el-bagdadi",
     "target": "dia:sibli-ebu-bekir",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
   },
   {
     "source": "dia:arif-i-rivgeri",
     "target": "alam:11771",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:11771",
     "target": "alam:4326",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:4326",
     "target": "dia:makkari-muhammed-b-muhammed",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:makkari-muhammed-b-muhammed",
     "target": "alam:12368",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "alam:10035",
     "target": "dia:imam-i-rabbani",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:hasan-i-basri",
     "target": "dia:amr-b-haris",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "alam:5260",
     "target": "dia:suayb-b-ebu-hamza",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
   },
   {
     "source": "dia:ebul-esved-ed-dueli",
     "target": "dia:nasr-b-asim",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:antaki-ali-b-muhammed",
     "target": "dia:ibn-ebu-zeyd",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
   },
   {
     "source": "dia:abdullah-b-amir",
     "target": "dia:said-b-cubeyr",
-    "type": "SILSILE"
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "dia:malik-b-enes",
+    "target": "dia:safii",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "dia:safii",
+    "target": "dia:muzeni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "dia:safii",
+    "target": "dia:ahmed-b-hanbel",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "dia:malik-b-enes",
+    "target": "dia:buhari-muhammed-b-ismail",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "dia:safii",
+    "target": "dia:rebi-b-suleyman-el-muradi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "dia:muzeni",
+    "target": "dia:ibn-sureyc-ebul-abbas",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed-b.-i̇dris-es-safii",
+    "target": "silsile:ahmed-b.-hanbel",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ahmed-b.-hanbel",
+    "target": "silsile:ebu-davud-es-sicistani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ahmed-b.-hanbel",
+    "target": "silsile:abdullah-b.-ahmed-b.-hanbel",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ahmed-b.-hanbel",
+    "target": "silsile:ebu-bekir-el-hallal",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:abdullah-b.-ahmed-b.-hanbel",
+    "target": "silsile:hallal",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:hallal",
+    "target": "silsile:hiraki",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:hallal",
+    "target": "silsile:gulamul-hallal",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:gulamul-hallal",
+    "target": "silsile:kādi-ebu-ya‘la",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:kādi-ebu-ya‘la",
+    "target": "silsile:ebul-hattab-el-kelvezani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:kādi-ebu-ya‘la",
+    "target": "silsile:i̇bn-akīl",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-yala-el-ferra",
+    "target": "silsile:ebul-hattab-el-kelvezani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bn-akīl",
+    "target": "silsile:i̇bnul-cevzi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bnul-cevzi",
+    "target": "silsile:i̇bn-kudame",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bn-kudame",
+    "target": "silsile:mecduddin-i̇bn-teymiyye",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:mecduddin-i̇bn-teymiyye",
+    "target": "silsile:takiyyuddin-i̇bn-teymiyye",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:mecduddin-i̇bn-teymiyye",
+    "target": "silsile:i̇bn-teymiyye",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bn-teymiyye",
+    "target": "silsile:i̇bn-kayyim-el-cevziyye",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:takiyyuddin-i̇bn-teymiyye",
+    "target": "silsile:i̇bn-kayyim-el-cevziyye",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:abdullah-b.-mes‘ud",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:",
+    "target": "silsile:abdullah-b.-mesud",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:abdullah-b.-mes‘ud",
+    "target": "silsile:alkame-b.-kays",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:abdullah-b.-mesud",
+    "target": "silsile:alkame-b.-kays",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:alkame-b.-kays",
+    "target": "silsile:i̇brahim-en-nehai",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇brahim-en-nehai",
+    "target": "silsile:hammad-b.-ebu-suleyman",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:hammad-b.-ebu-suleyman",
+    "target": "silsile:ebu-hanife",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-hanife",
+    "target": "silsile:ebu-yusuf",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-hanife",
+    "target": "silsile:muhammed-b.-hasan-es-seybani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-hanife",
+    "target": "silsile:zufer-b.-huzeyl",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-hanife",
+    "target": "silsile:kerhi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-yusuf",
+    "target": "silsile:hasan-b.-ziyad-el-lului",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed-b.-hasan-es-seybani",
+    "target": "silsile:ebu-suleyman-el-cuzcani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed-b.-hasan-es-seybani",
+    "target": "silsile:isa-b.-eban",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed-b.-hasan-es-seybani",
+    "target": "silsile:ebu-hafs-el-kebir",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-hafs-el-kebir",
+    "target": "silsile:ebu-hafs-es-sagīr",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-hafs-el-kebir",
+    "target": "silsile:ebu-hafs-es-sagir",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-hafs-es-sagīr",
+    "target": "silsile:ebu-ca‘fer-el-hinduvani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-hafs-es-sagir",
+    "target": "silsile:ebu-bekir-el-i̇skaf",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ahmed-b.-ebi-i̇mran",
+    "target": "silsile:tahavi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:tahavi",
+    "target": "silsile:cessas",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:hakim-es-sehid",
+    "target": "silsile:ebu-bekir-el-cessas",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-ca‘fer-el-hinduvani",
+    "target": "silsile:muhammed-b.-el-fadl-el-buhari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed-b.-el-fadl-el-buhari",
+    "target": "silsile:semsul-eimme-el-halvani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:semsul-eimme-el-halvani",
+    "target": "silsile:serahsi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:semsul-eimme-el-halvani",
+    "target": "silsile:fahrul-i̇slam-el-pezdevi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:semsuleimme-el-hulvani",
+    "target": "silsile:semsuleimme-es-serahsi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:fahrul-i̇slam-el-pezdevi",
+    "target": "silsile:alaeddin-es-semerkandi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:necmeddin-en-nesefi",
+    "target": "silsile:mergīnani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:alaeddin-es-semerkandi",
+    "target": "silsile:kasani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:alaeddin-es-semerkandi",
+    "target": "silsile:alaeddin-el-kasani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:burhaneddin-el-merginani",
+    "target": "silsile:tacuddin-el-kurdi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed-sakir-el-akkād",
+    "target": "silsile:i̇bn-abidin",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:omer-b.-el-hattab",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:",
+    "target": "silsile:omer-b.-hattab",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:omer-b.-el-hattab",
+    "target": "silsile:abdullah-b.-omer",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:omer-b.-hattab",
+    "target": "silsile:abdullah-b.-omer",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:abdullah-b.-omer",
+    "target": "silsile:nafi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:abdullah-b.-omer",
+    "target": "silsile:nafi‘-mevla-i̇bn-omer",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:nafi‘-mevla-i̇bn-omer",
+    "target": "silsile:malik-b.-enes",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:nafi",
+    "target": "silsile:malik-b.-enes",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:malik-b.-enes",
+    "target": "silsile:i̇bnul-kāsim",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:malik-b.-enes",
+    "target": "silsile:i̇bn-vehb",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:malik-b.-enes",
+    "target": "silsile:esheb-b.-abdulaziz",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:malik-b.-enes",
+    "target": "silsile:yahya-b.-yahya-el-leysi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:malik-b.-enes",
+    "target": "silsile:i̇bnul-kasim",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bnul-kāsim",
+    "target": "silsile:sahnun",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bnul-kasim",
+    "target": "silsile:sahnun",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:sahnun",
+    "target": "silsile:muhammed-b.-sahnun",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:sahnun",
+    "target": "silsile:i̇bn-ebu-zeyd-el-kayrevani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed-b.-sahnun",
+    "target": "silsile:kābisi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:kābisi",
+    "target": "silsile:ebu-i̇mran-el-fasi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-i̇mran-el-fasi",
+    "target": "silsile:lahmi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:lahmi",
+    "target": "silsile:mazeri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:mazeri",
+    "target": "silsile:kādi-i̇yaz",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bn-sas",
+    "target": "silsile:karafi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bnul-hacib",
+    "target": "silsile:karafi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:halil-b.-i̇shak",
+    "target": "silsile:behram-ed-demiri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bn-gāzi-el-miknasi",
+    "target": "silsile:hattab-er-ruayni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:malik-b.-enes",
+    "target": "silsile:i̇mam-safii",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muslim-b.-halid-ez-zenci",
+    "target": "silsile:i̇mam-safii",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:malik-b.-enes",
+    "target": "silsile:muhammed-b.-i̇dris-es-safii",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed-b.-hasan-es-seybani",
+    "target": "silsile:i̇mam-safii",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇mam-safii",
+    "target": "silsile:muzeni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇mam-safii",
+    "target": "silsile:rebi‘-b.-suleyman-el-muradi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇mam-safii",
+    "target": "silsile:buveyti",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed-b.-i̇dris-es-safii",
+    "target": "silsile:i̇smail-b.-yahya-el-muzeni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muhammed-b.-i̇dris-es-safii",
+    "target": "silsile:er-rebi-b.-suleyman",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:muzeni",
+    "target": "silsile:i̇bn-sureyc",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇smail-b.-yahya-el-muzeni",
+    "target": "silsile:i̇bn-sureyc",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bn-sureyc",
+    "target": "silsile:ebu-hamid-el-i̇sferayini",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-hamid-el-i̇sferayini",
+    "target": "silsile:ebut-tayyib-et-taberi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-muhammed-el-cuveyni",
+    "target": "silsile:i̇mamul-haremeyn-el-cuveyni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebut-tayyib-et-taberi",
+    "target": "silsile:maverdi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebut-tayyib-et-taberi",
+    "target": "silsile:ebu-i̇shak-es-sirazi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-i̇shak-es-sirazi",
+    "target": "silsile:ebu-maali-el-cuveyni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇mamul-haremeyn-el-cuveyni",
+    "target": "silsile:gazzali",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-maali-el-cuveyni",
+    "target": "silsile:ebu-hamid-el-gazzali",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:rafii",
+    "target": "silsile:nevevi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebul-kasim-er-rafii",
+    "target": "silsile:muhyiddin-en-nevevi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bnus-salah",
+    "target": "silsile:nevevi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:takiyyuddin-es-subki",
+    "target": "silsile:bulkīni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:bulkīni",
+    "target": "silsile:zekeriyya-el-ensari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:zekeriyya-el-ensari",
+    "target": "silsile:i̇bn-hacer-el-heytemi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebul-hasan-el-esari",
+    "target": "silsile:ebu-abdullah-b.-mucahid",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-abdullah-b.-mucahid",
+    "target": "silsile:ebu-bekir-el-bakillani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-bekir-el-bakillani",
+    "target": "silsile:ebu-i̇shak-el-i̇sferayini",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-i̇shak-el-i̇sferayini",
+    "target": "silsile:ebul-meali-el-cuveyni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-meali-el-cuveyni",
+    "target": "silsile:ebu-hamid-el-gazzali",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-kasim-el-ensari",
+    "target": "silsile:fahreddin-er-razi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-hasan-el-es‘ari",
+    "target": "silsile:ebul-hasan-el-bahili",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-hasan-el-bahili",
+    "target": "silsile:bakillani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-hasan-el-bahili",
+    "target": "silsile:i̇bn-furek",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:bakillani",
+    "target": "silsile:abdulkāhir-el-bagdadi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:i̇bn-furek",
+    "target": "silsile:kuseyri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:abdulkāhir-el-bagdadi",
+    "target": "silsile:kuseyri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:kuseyri",
+    "target": "silsile:i̇mamul-haremeyn-el-cuveyni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:gazzali",
+    "target": "silsile:sehristani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:sehristani",
+    "target": "silsile:fahreddin-er-razi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:fahreddin-er-razi",
+    "target": "silsile:adududdin-el-ici",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:adududdin-el-ici",
+    "target": "silsile:sa‘deddin-et-teftazani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:adududdin-el-ici",
+    "target": "silsile:seyyid-serif-el-curcani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:vasil-b.-ata",
+    "target": "silsile:amr-b.-ubeyd",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-hasim-el-cubbai",
+    "target": "silsile:abdulcebbar",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:hasan-i-basri",
+    "target": "silsile:vasil-b.-ata",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:hasan-i-basri",
+    "target": "silsile:amr-b.-ubeyd",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:amr-b.-ubeyd",
+    "target": "silsile:ebul-huzeyl-el-allaf",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:nazzam",
+    "target": "silsile:cahiz",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-huzeyl-el-allaf",
+    "target": "silsile:nazzam",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-huzeyl-el-allaf",
+    "target": "silsile:ebu-ali-el-cubbai",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-ali-el-cubbai",
+    "target": "silsile:ebu-hasim-el-cubbai",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-hasim-el-cubbai",
+    "target": "silsile:kādi-abdulcebbar",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-bekir-el-cuzcani",
+    "target": "silsile:ebu-nasr-el-i̇yazi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-nasr-el-i̇yazi",
+    "target": "silsile:ebu-mansur-el-maturidi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-yusuf",
+    "target": "silsile:muhammed-b.-hasan-es-seybani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-suleyman-el-cuzcani",
+    "target": "silsile:ebu-bekir-el-cuzcani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-mansur-el-maturidi",
+    "target": "silsile:ebul-kāsim-el-hakim-es-semerkandi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebu-mansur-el-maturidi",
+    "target": "silsile:ebul-kasim-es-semerkandi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-kāsim-el-hakim-es-semerkandi",
+    "target": "silsile:ebul-yusr-el-pezdevi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-yusr-el-pezdevi",
+    "target": "silsile:ebul-muin-en-nesefi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-muin-en-nesefi",
+    "target": "silsile:necmeddin-omer-en-nesefi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-muin-en-nesefi",
+    "target": "silsile:nureddin-es-sabuni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:ebul-muin-en-nesefi",
+    "target": "silsile:necmeddin-en-nesefi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:necmeddin-en-nesefi",
+    "target": "silsile:sa‘deddin-et-teftazani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:abdullah-b.-omer",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:ebu-hureyre",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:aise",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:aise",
+    "target": "silsile:urve-b.-zubeyr",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:ebu-hureyre",
+    "target": "silsile:a‘rec",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:ebu-hureyre",
+    "target": "silsile:i̇bn-sihab-ez-zuhri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:urve-b.-zubeyr",
+    "target": "silsile:hisam-b.-urve",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:a‘rec",
+    "target": "silsile:ebuz-zinad",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:i̇bn-sihab-ez-zuhri",
+    "target": "silsile:malik-b.-enes",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:ebuz-zinad",
+    "target": "silsile:malik-b.-enes",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:hisam-b.-urve",
+    "target": "silsile:malik-b.-enes",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:malik-b.-enes",
+    "target": "silsile:kuteybe-b.-said",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:veki‘-b.-cerrah",
+    "target": "silsile:ahmed-b.-hanbel",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:abdurrahman-b.-mehdi",
+    "target": "silsile:ahmed-b.-hanbel",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:sufyan-b.-uyeyne",
+    "target": "silsile:humeydi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:sufyan-b.-uyeyne",
+    "target": "silsile:ahmed-b.-hanbel",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:humeydi",
+    "target": "silsile:buhari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:yahya-b.-main",
+    "target": "silsile:buhari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:ali-b.-el-medini",
+    "target": "silsile:buhari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:i̇bn-ebi-seybe",
+    "target": "silsile:muslim",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:i̇bn-ebi-seybe",
+    "target": "silsile:ebu-davud-es-sicistani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:i̇bn-ebi-seybe",
+    "target": "silsile:i̇bn-mace",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:i̇shak-b.-rahuye",
+    "target": "silsile:buhari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:i̇shak-b.-rahuye",
+    "target": "silsile:muslim",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:kuteybe-b.-said",
+    "target": "silsile:muslim",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:kuteybe-b.-said",
+    "target": "silsile:ebu-davud-es-sicistani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:kuteybe-b.-said",
+    "target": "silsile:tirmizi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:kuteybe-b.-said",
+    "target": "silsile:nesai",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:kuteybe-b.-said",
+    "target": "silsile:i̇bn-mace",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:ahmed-b.-hanbel",
+    "target": "silsile:buhari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:ahmed-b.-hanbel",
+    "target": "silsile:muslim",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:ebu-kureyb",
+    "target": "silsile:muslim",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:ebu-kureyb",
+    "target": "silsile:tirmizi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:ebu-kureyb",
+    "target": "silsile:i̇bn-mace",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:abdullah-b.-abdurrahman-ed-darimi",
+    "target": "silsile:tirmizi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:buhari",
+    "target": "silsile:tirmizi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:muhammed-b.-yahya-ez-zuhli",
+    "target": "silsile:buhari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:muhammed-b.-yahya-ez-zuhli",
+    "target": "silsile:muslim",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:muhammed-b.-yahya-ez-zuhli",
+    "target": "silsile:tirmizi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:darekutni",
+    "target": "silsile:hakim-en-nisaburi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:hakim-en-nisaburi",
+    "target": "silsile:beyhakī",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:i̇shak-b.-rahuye",
+    "target": "silsile:muslim-b.-haccac",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:ahmed-b.-hanbel",
+    "target": "silsile:muhammed-b.-i̇smail-el-buhari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:muhammed-b.-i̇smail-el-buhari",
+    "target": "silsile:muslim-b.-haccac",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:muhammed-b.-i̇smail-el-buhari",
+    "target": "silsile:ebu-isa-et-tirmizi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:",
+    "target": "silsile:abdullah-b.-omer",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:cuneyd-i-bagdadi",
+    "target": "silsile:mumsad-ed-dineveri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:mumsad-ed-dineveri",
+    "target": "silsile:siraceddin-omer-el-halveti",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:siraceddin-omer-el-halveti",
+    "target": "silsile:yahya-sirvani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:yahya-sirvani",
+    "target": "silsile:dede-omer-ruseni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:yahya-sirvani",
+    "target": "silsile:sunbul-sinan",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:dede-omer-ruseni",
+    "target": "silsile:i̇brahim-gulseni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:sunbul-sinan",
+    "target": "silsile:merkez-efendi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:",
+    "target": "silsile:ali-b.-ebu-talib",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:davud-et-tai",
+    "target": "silsile:maruf-el-kerhi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:maruf-el-kerhi",
+    "target": "silsile:seri-es-sakati",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebu-said-el-mubarek-el-mahzumi",
+    "target": "silsile:abdulkadir-i-geylani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:ali-b.-ebu-talib",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ali-b.-ebu-talib",
+    "target": "silsile:hasan-i-basri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:hasan-i-basri",
+    "target": "silsile:habib-el-acemi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:habib-el-acemi",
+    "target": "silsile:davud-et-tai",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:davud-et-tai",
+    "target": "silsile:ma‘ruf-el-kerhi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ma‘ruf-el-kerhi",
+    "target": "silsile:seri-es-sakati",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:seri-es-sakati",
+    "target": "silsile:cuneyd-i-bagdadi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:cuneyd-i-bagdadi",
+    "target": "silsile:sibli",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:sibli",
+    "target": "silsile:abdulaziz-et-temimi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:abdulaziz-et-temimi",
+    "target": "silsile:ebul-fadl-et-temimi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebul-fadl-et-temimi",
+    "target": "silsile:ebu-said-el-mubarek-el-muharrimi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebu-said-el-mubarek-el-muharrimi",
+    "target": "silsile:abdulkādir-i-geylani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:abdulkādir-i-geylani",
+    "target": "silsile:abdurrezzak-el-cili",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:abdulkādir-i-geylani",
+    "target": "silsile:abdulaziz-el-cili",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:bahaeddin-veled",
+    "target": "silsile:burhaneddin-muhakkik-tirmizi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:bahaeddin-veled",
+    "target": "silsile:mevlana-celaleddin-i-rumi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:burhaneddin-muhakkik-tirmizi",
+    "target": "silsile:mevlana-celaleddin-i-rumi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:seyyid-burhaneddin-muhakkik",
+    "target": "silsile:mevlana-celaleddin-i-rumi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:mevlana-celaleddin-i-rumi",
+    "target": "silsile:husameddin-celebi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:mevlana-celaleddin-i-rumi",
+    "target": "silsile:sultan-veled",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:sultan-veled",
+    "target": "silsile:ulu-arif-celebi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:ebu-bekir-es-siddik",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:",
+    "target": "silsile:ebu-bekir-es-siddik",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebu-bekir-es-siddik",
+    "target": "silsile:selman-i-farisi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:selman-i-farisi",
+    "target": "silsile:kasim-b.-muhammed",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:selman-i-farisi",
+    "target": "silsile:kāsim-b.-muhammed",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:kāsim-b.-muhammed",
+    "target": "silsile:ca‘fer-es-sadik",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:kasim-b.-muhammed",
+    "target": "silsile:cafer-es-sadik",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ca‘fer-es-sadik",
+    "target": "silsile:bayezid-i-bistami",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:cafer-es-sadik",
+    "target": "silsile:bayezid-i-bistami",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:bayezid-i-bistami",
+    "target": "silsile:ebul-hasan-el-harakāni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:bayezid-i-bistami",
+    "target": "silsile:ebul-hasan-el-harkāni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebul-hasan-el-harkāni",
+    "target": "silsile:ebu-ali-el-farmedi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebul-hasan-el-harakāni",
+    "target": "silsile:ebu-ali-el-farmedi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebu-ali-el-farmedi",
+    "target": "silsile:yusuf-el-hemedani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:yusuf-el-hemedani",
+    "target": "silsile:abdulhalik-gucduvani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:yusuf-el-hemedani",
+    "target": "silsile:abdulhalik-el-gucduvani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:abdulhalik-gucduvani",
+    "target": "silsile:arif-er-rivegeri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:arif-er-rivegeri",
+    "target": "silsile:mahmud-encirfagnevi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:mahmud-encirfagnevi",
+    "target": "silsile:ali-er-ramiteni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ali-er-ramiteni",
+    "target": "silsile:muhammed-baba-es-semmasi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:muhammed-baba-es-semmasi",
+    "target": "silsile:seyyid-emir-kulal",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:seyyid-emir-kulal",
+    "target": "silsile:bahaeddin-naksibend",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:emir-kulal",
+    "target": "silsile:bahaeddin-naksibend",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:bahaeddin-naksibend",
+    "target": "silsile:alaeddin-attar",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:bahaeddin-naksibend",
+    "target": "silsile:muhammed-parsa",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:alaeddin-attar",
+    "target": "silsile:ya‘kūb-i-cerhi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ya‘kūb-i-cerhi",
+    "target": "silsile:ubeydullah-ahrar",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ubeydullah-ahrar",
+    "target": "silsile:muhammed-zahid",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:muhammed-zahid",
+    "target": "silsile:dervis-muhammed",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:dervis-muhammed",
+    "target": "silsile:muhammed-hace-el-emkenegi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:muhammed-hace-el-emkenegi",
+    "target": "silsile:ahmed-sirhindi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ahmed-sirhindi",
+    "target": "silsile:muhammed-ma‘sum",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:muhammed-ma‘sum",
+    "target": "silsile:seyfuddin-el-faruki",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:seyfuddin-el-faruki",
+    "target": "silsile:nur-muhammed-el-bedevani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:nur-muhammed-el-bedevani",
+    "target": "silsile:semseddin-habibullah",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:semseddin-habibullah",
+    "target": "silsile:abdullah-dehlevi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:abdullah-dehlevi",
+    "target": "silsile:halid-el-bagdadi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebul-fadl-el-vasiti",
+    "target": "silsile:mansur-el-bettaihi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:sibli",
+    "target": "silsile:ebul-fadl-el-vasiti",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:mansur-el-bettaihi",
+    "target": "silsile:ahmed-er-rifai",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:arslan-baba",
+    "target": "silsile:ahmed-yesevi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:arslan-baba",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:yusuf-el-hemedani",
+    "target": "silsile:ahmed-yesevi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ahmed-yesevi",
+    "target": "silsile:hakim-ata",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:hakim-ata",
+    "target": "silsile:zengi-ata",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:zengi-ata",
+    "target": "silsile:seyyid-ata",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:seyyid-ata",
+    "target": "silsile:sadr-ata",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:cuneyd-i-bagdadi",
+    "target": "silsile:ebu-medyen",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebu-medyen",
+    "target": "silsile:abdusselam-b.-mesis",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:abdusselam-b.-mesis",
+    "target": "silsile:ebul-hasan-es-sazeli",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebul-hasan-es-sazeli",
+    "target": "silsile:ebul-abbas-el-mursi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ebul-abbas-el-mursi",
+    "target": "silsile:i̇bn-ataullah-el-i̇skenderi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:i̇bn-ataullah-el-i̇skenderi",
+    "target": "silsile:ahmed-zerruk",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:",
+    "target": "silsile:ubey-b.-kab",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ubey-b.-kab",
+    "target": "silsile:ebu-cafer-el-kāri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebu-cafer-el-kāri",
+    "target": "silsile:nafi-b.-abdurrahman",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:nafi-b.-abdurrahman",
+    "target": "silsile:kalun",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:nafi-b.-abdurrahman",
+    "target": "silsile:vers",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:ebu-musa-el-es‘ari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebu-musa-el-es‘ari",
+    "target": "silsile:yahya-b.-ya‘mer",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:yahya-b.-ya‘mer",
+    "target": "silsile:ebu-amr-b.-el-ala",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebu-amr-b.-el-ala",
+    "target": "silsile:duri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebu-amr-b.-el-ala",
+    "target": "silsile:susi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ubey-b.-ka‘b",
+    "target": "silsile:ebu-ca‘fer-el-medeni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebu-ca‘fer-el-medeni",
+    "target": "silsile:i̇bn-cemmaz",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebu-ca‘fer-el-medeni",
+    "target": "silsile:i̇bn-verdan",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:hamza-ez-zeyyat",
+    "target": "silsile:halef-el-asir",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:halef-el-asir",
+    "target": "silsile:i̇shak-el-verrak",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:halef-el-asir",
+    "target": "silsile:i̇dris-el-haddad",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:i̇brahim-en-nehai",
+    "target": "silsile:a‘mes",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:a‘mes",
+    "target": "silsile:hamza-ez-zeyyat",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:hamza-ez-zeyyat",
+    "target": "silsile:halef-el-bezzar",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:hamza-ez-zeyyat",
+    "target": "silsile:hallad",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:hamza-ez-zeyyat",
+    "target": "silsile:kisai",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:kisai",
+    "target": "silsile:ebul-haris",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:kisai",
+    "target": "silsile:duri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:ubey-b.-ka‘b",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ubey-b.-ka‘b",
+    "target": "silsile:ebu-ca‘fer-yezid-b.-ka‘ka‘",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebu-ca‘fer-yezid-b.-ka‘ka‘",
+    "target": "silsile:nafi‘-el-medeni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:nafi‘-el-medeni",
+    "target": "silsile:kālun",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:nafi‘-el-medeni",
+    "target": "silsile:vers",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebu-musa-el-es‘ari",
+    "target": "silsile:nasr-b.-asim",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:nasr-b.-asim",
+    "target": "silsile:ebul-esheb-el-cermi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebul-esheb-el-cermi",
+    "target": "silsile:ya‘kūb-el-hadrami",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ya‘kūb-el-hadrami",
+    "target": "silsile:ruveys",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ya‘kūb-el-hadrami",
+    "target": "silsile:ravh",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:abdullah-b.-mes‘ud",
+    "target": "silsile:zirr-b.-hubeys",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ali-b.-ebu-talib",
+    "target": "silsile:ebu-abdurrahman-es-sulemi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebu-abdurrahman-es-sulemi",
+    "target": "silsile:asim-b.-behdele",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:zirr-b.-hubeys",
+    "target": "silsile:asim-b.-behdele",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:asim-b.-behdele",
+    "target": "silsile:su‘be-b.-ayyas",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:asim-b.-behdele",
+    "target": "silsile:hafs-b.-suleyman",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:abdullah-b.-es-saib",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:abdullah-b.-es-saib",
+    "target": "silsile:mucahid-b.-cebr",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:mucahid-b.-cebr",
+    "target": "silsile:i̇bn-kesir-el-mekki",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:i̇bn-kesir-el-mekki",
+    "target": "silsile:bezzi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:i̇bn-kesir-el-mekki",
+    "target": "silsile:kunbul",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:osman-b.-affan",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:osman-b.-affan",
+    "target": "silsile:mugīre-b.-ebi-sihab",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:mugīre-b.-ebi-sihab",
+    "target": "silsile:i̇bn-amir-ed-dimaski",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:i̇bn-amir-ed-dimaski",
+    "target": "silsile:hisam-b.-ammar",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:i̇bn-amir-ed-dimaski",
+    "target": "silsile:i̇bn-zekvan",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:abdullah-b.-mesud",
+    "target": "silsile:zir-b.-hubeys",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ali-b.-ebu-talib",
+    "target": "silsile:ebul-esved-ed-dueli",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:ebul-esved-ed-dueli",
+    "target": "silsile:abdullah-b.-ebi-i̇shak",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:abdullah-b.-ebi-i̇shak",
+    "target": "silsile:isa-b.-omer",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:isa-b.-omer",
+    "target": "silsile:halil-b.-ahmed",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:halil-b.-ahmed",
+    "target": "silsile:sibeveyhi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:sibeveyhi",
+    "target": "silsile:ahfes-el-evsat",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:ahfes-el-evsat",
+    "target": "silsile:muberred",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:muberred",
+    "target": "silsile:zeccac",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:ebu-ca‘fer-er-ruasi",
+    "target": "silsile:kisai",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:kisai",
+    "target": "silsile:ferra",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:ferra",
+    "target": "silsile:i̇bnus-sikkit",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:i̇bnus-sikkit",
+    "target": "silsile:sa‘leb",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:muhammed",
+    "target": "silsile:abdullah-b.-abbas",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:abdullah-b.-abbas",
+    "target": "silsile:mucahid-b.-cebr",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:abdullah-b.-abbas",
+    "target": "silsile:i̇krime-mevla-i̇bn-abbas",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:mucahid-b.-cebr",
+    "target": "silsile:i̇bn-ebi-necih",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:katade-b.-diame",
+    "target": "silsile:abdurrezzak-es-san‘ani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:i̇bn-ebi-necih",
+    "target": "silsile:i̇bn-cureyc",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:yuhanna-b.-maseveyh",
+    "target": "silsile:huneyn-b.-i̇shak",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:huneyn-b.-i̇shak",
+    "target": "silsile:i̇shak-b.-huneyn",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:huneyn-b.-i̇shak",
+    "target": "silsile:hubeys-b.-el-hasan-el-a‘sem",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:i̇shak-b.-huneyn",
+    "target": "silsile:sinan-b.-sabit",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:ebu-hanife",
+    "target": "silsile:hasan-b.-ziyad-el-lului",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:isa-b.-eban",
+    "target": "silsile:ebul-hasan-el-kerhi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebul-hasan-el-kerhi",
+    "target": "silsile:ebu-bekir-el-cessas",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:merginani",
+    "target": "silsile:hafizuddin-el-buhari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:hafizuddin-el-buhari",
+    "target": "silsile:ekmeleddin-el-baberti",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ekmeleddin-el-baberti",
+    "target": "silsile:i̇bnul-humam",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:aise-bt.-ebi-bekir",
+    "target": "silsile:urve-b.-zubeyr",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:urve-b.-zubeyr",
+    "target": "silsile:i̇bn-sihab-ez-zuhri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:rabiatur-rey",
+    "target": "silsile:malik-b.-enes",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:abdullah-b.-abbas",
+    "target": "silsile:ata-b.-ebi-rebah",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ata-b.-ebi-rebah",
+    "target": "silsile:muslim-b.-halid-ez-zenci",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ahmed-b.-hanbel",
+    "target": "silsile:ebu-bekir-el-esrem",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-bekir-el-hallal",
+    "target": "silsile:ebul-kasim-el-hiraki",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-yala",
+    "target": "silsile:ebul-vefa-i̇bn-akil",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:i̇bn-teymiyye",
+    "target": "silsile:zehebi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_fiqh"
+  },
+  {
+    "source": "silsile:ebu-ali-el-cubbai",
+    "target": "silsile:ebul-hasan-el-esari",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:fahreddin-er-razi",
+    "target": "silsile:seyfeddin-el-amidi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_kalam"
+  },
+  {
+    "source": "silsile:sufyan-es-sevri",
+    "target": "silsile:veki-b.-cerrah",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:veki-b.-cerrah",
+    "target": "silsile:ahmed-b.-hanbel",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:abdurrezzak-b.-hemmam",
+    "target": "silsile:ahmed-b.-hanbel",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:hakim-en-nisaburi",
+    "target": "silsile:beyhaki",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:i̇bn-hacer-el-askalani",
+    "target": "silsile:sehavi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_hadith"
+  },
+  {
+    "source": "silsile:cuneyd-i-bagdadi",
+    "target": "silsile:ebu-bekir-es-sibli",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:abdulkadir-i-geylani",
+    "target": "silsile:abdurrezzak-el-geylani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:abdulhalik-el-gucduvani",
+    "target": "silsile:arif-rivgeri",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:arif-rivgeri",
+    "target": "silsile:mahmud-encirfagnevi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:mahmud-encirfagnevi",
+    "target": "silsile:ali-ramiteni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:ali-ramiteni",
+    "target": "silsile:muhammed-baba-semmasi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:muhammed-baba-semmasi",
+    "target": "silsile:emir-kulal",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:alaeddin-attar",
+    "target": "silsile:yakub-i-cerhi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:yakub-i-cerhi",
+    "target": "silsile:ubeydullah-ahrar",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:muhammed-baki-billah",
+    "target": "silsile:i̇mam-rabbani",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:abdullah-dihlevi",
+    "target": "silsile:mevlana-halid-i-bagdadi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_tasawwuf"
+  },
+  {
+    "source": "silsile:hasan-i-basri",
+    "target": "silsile:ebu-amr-b.-el-ala",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:asim-b.-behdele",
+    "target": "silsile:hamza-b.-habib-ez-zeyyat",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:hamza-b.-habib-ez-zeyyat",
+    "target": "silsile:kisai",
+    "type": "SILSILE",
+    "silsile_type": "silsile_qiraat"
+  },
+  {
+    "source": "silsile:ebul-esved-ed-dueli",
+    "target": "silsile:nasr-b.-asim-el-leysi",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:ebu-ali-el-farisi",
+    "target": "silsile:i̇bn-cinni",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
+  },
+  {
+    "source": "silsile:abdullah-b.-abbas",
+    "target": "silsile:said-b.-cubeyr",
+    "type": "SILSILE",
+    "silsile_type": "silsile_other"
   }
 ]

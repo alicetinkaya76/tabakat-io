@@ -4,14 +4,25 @@ import { useLang } from '../utils/data';
 import { getDisplayName } from '../utils/helpers';
 import { FIELD_LABELS } from '../utils/i18n';
 
+const SILSILE_COLORS = {
+  silsile_fiqh:     { color: '#3b82f6', label_tr: 'Fıkıh',     label_en: 'Fiqh' },
+  silsile_kalam:    { color: '#8b5cf6', label_tr: 'Kelam',      label_en: 'Kalām' },
+  silsile_hadith:   { color: '#f59e0b', label_tr: 'Hadis',      label_en: 'Hadith' },
+  silsile_tasawwuf: { color: '#10b981', label_tr: 'Tasavvuf',   label_en: 'Tasawwuf' },
+  silsile_qiraat:   { color: '#ef4444', label_tr: 'Kıraat',     label_en: 'Qirāʾāt' },
+  silsile_other:    { color: '#6b7280', label_tr: 'Diğer',      label_en: 'Other' },
+};
+
 function buildTree(scholarId, allEdges, scholarLookup) {
   const childrenMap = {};
   const parentMap = {};
+  const edgeTypeMap = {};
   for (const e of allEdges) {
     if (!childrenMap[e.source]) childrenMap[e.source] = new Set();
     childrenMap[e.source].add(e.target);
     if (!parentMap[e.target]) parentMap[e.target] = new Set();
     parentMap[e.target].add(e.source);
+    edgeTypeMap[`${e.source}→${e.target}`] = e.silsile_type || 'silsile_fiqh';
   }
   const findRoots = (id, visited = new Set()) => {
     if (visited.has(id)) return [id];
@@ -33,7 +44,10 @@ function buildTree(scholarId, allEdges, scholarLookup) {
     if (kids) {
       for (const kid of kids) {
         const child = buildNode(kid, depth + 1, new Set(visited));
-        if (child) node.children.push(child);
+        if (child) {
+          child._edgeType = edgeTypeMap[`${id}→${kid}`] || 'silsile_fiqh';
+          node.children.push(child);
+        }
       }
     }
     return node;
@@ -60,6 +74,13 @@ export default function SilsileTree({ scholarId, silsileEdges, scholarNames = {}
     if (!silsileEdges || silsileEdges.length === 0) return null;
     return buildTree(scholarId, silsileEdges, scholarNames);
   }, [scholarId, silsileEdges, scholarNames]);
+
+  // Collect active silsile types for legend
+  const activeTypes = useMemo(() => {
+    if (!silsileEdges) return [];
+    const types = new Set(silsileEdges.map(e => e.silsile_type || 'silsile_fiqh'));
+    return [...types].filter(t => SILSILE_COLORS[t]);
+  }, [silsileEdges]);
 
   useEffect(() => {
     if (!containerRef.current) return;
@@ -125,9 +146,6 @@ export default function SilsileTree({ scholarId, silsileEdges, scholarNames = {}
       svg.style('touch-action', 'none');
 
       const defs = svg.append('defs');
-      const grad = defs.append('linearGradient').attr('id', 'silsile-link-grad').attr('x1', '0%').attr('y1', '0%').attr('x2', '0%').attr('y2', '100%');
-      grad.append('stop').attr('offset', '0%').attr('stop-color', '#dc9a24').attr('stop-opacity', 0.4);
-      grad.append('stop').attr('offset', '100%').attr('stop-color', '#07c4a3').attr('stop-opacity', 0.4);
       const filter = defs.append('filter').attr('id', 'glow-current');
       filter.append('feGaussianBlur').attr('stdDeviation', '3').attr('result', 'coloredBlur');
       const merge = filter.append('feMerge');
@@ -138,7 +156,12 @@ export default function SilsileTree({ scholarId, silsileEdges, scholarNames = {}
         .append('path').attr('d', d => {
           const sx = d.source.x, sy = d.source.y + nodeH / 2, tx = d.target.x, ty = d.target.y - nodeH / 2, my = (sy + ty) / 2;
           return `M${sx},${sy} C${sx},${my} ${tx},${my} ${tx},${ty}`;
-        }).attr('fill', 'none').attr('stroke', 'url(#silsile-link-grad)').attr('stroke-width', 2)
+        }).attr('fill', 'none')
+        .attr('stroke', d => {
+          const edgeType = d.target.data._edgeType || 'silsile_fiqh';
+          return (SILSILE_COLORS[edgeType]?.color || '#dc9a24') + '80';
+        })
+        .attr('stroke-width', 2.5)
         .attr('opacity', 0).transition().duration(600).delay((_, i) => i * 60).attr('opacity', 1);
 
       const nodes = g.selectAll('.silsile-node').data(root.descendants().filter(d => !d.data.virtual)).enter()
@@ -179,6 +202,16 @@ export default function SilsileTree({ scholarId, silsileEdges, scholarNames = {}
           <svg className="w-3.5 h-3.5" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M15.312 11.424a5.5 5.5 0 01-9.201 2.466l-.312-.311h2.433a.75.75 0 000-1.5H4.598a.75.75 0 00-.75.75v3.634a.75.75 0 001.5 0v-2.033l.31.31A7 7 0 0016.76 11.04a.75.75 0 10-1.448.384zm-10.624-2.85a5.5 5.5 0 019.201-2.465l.312.31H11.77a.75.75 0 000 1.5h3.634a.75.75 0 00.75-.75V3.535a.75.75 0 00-1.5 0v2.033l-.31-.31A7 7 0 003.24 8.96a.75.75 0 101.448-.384z" clipRule="evenodd"/></svg>
         </button>
       </div>
+      {activeTypes.length > 1 && (
+        <div className="absolute top-3 left-3 z-10 flex flex-wrap gap-2">
+          {activeTypes.map(t => (
+            <span key={t} className="flex items-center gap-1.5 text-[10px] font-medium text-ink-500 dark:text-sand-400 glass px-2 py-1 rounded-md">
+              <span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: SILSILE_COLORS[t]?.color }} />
+              {lang === 'tr' ? SILSILE_COLORS[t]?.label_tr : SILSILE_COLORS[t]?.label_en}
+            </span>
+          ))}
+        </div>
+      )}
       <div className="absolute bottom-3 right-3 z-10 text-[10px] font-mono text-ink-400 dark:text-sand-500 glass px-2 py-1 rounded-md">{Math.round(zoomLevel * 100)}%</div>
       <div className="overflow-hidden">
         <svg ref={svgRef} width="100%" height={dimensions.height} style={{ minWidth: 400 }} className="silsile-tree-svg" />
