@@ -721,5 +721,1285 @@
     "target": "dia:ibn-sina",
     "type": "MADRASA_PEER",
     "madrasa": "Nizamiyya of Baghdad"
+  },
+  {
+    "source": "dia:kelbi-hisam-b-muhammed",
+    "target": "dia:ahmed-b-hanbel",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ahmed-b-hanbel",
+    "target": "dia:dineveri-ebu-hanife",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ahmed-b-hanbel",
+    "target": "dia:abdullah-b-ahmed-b-hanbel",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ahmed-b-hanbel",
+    "target": "dia:razi-ebu-bekir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-ahmed-b-hanbel",
+    "target": "dia:hallal-ebu-bekir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:hallal-ebu-bekir",
+    "target": "dia:gulamul-hallal",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:gulamul-hallal",
+    "target": "dia:ebu-yala-el-ferra",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-yala-el-ferra",
+    "target": "dia:ibn-berhan",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-berhan",
+    "target": "dia:ibnul-cevzi-ebul-ferec",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibnul-cevzi-ebul-ferec",
+    "target": "dia:ibn-teymiyye-fahreddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-teymiyye-fahreddin",
+    "target": "dia:ibn-teymiyye-mecduddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-teymiyye-mecduddin",
+    "target": "dia:ibn-cemaa-bedreddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-cemaa-bedreddin",
+    "target": "dia:ibn-kayyim-el-cevziyye",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "dia:abdullah-b-huzafe",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-huzafe",
+    "target": "dia:alkame-b-kays",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:alkame-b-kays",
+    "target": "alam:1686",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:1686",
+    "target": "dia:ibn-ebu-muleyke",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-ebu-muleyke",
+    "target": "dia:ebu-amr-b-ala",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-amr-b-ala",
+    "target": "dia:ebu-yusuf",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-amr-b-ala",
+    "target": "dia:seybani-muhammed-b-hasan",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-amr-b-ala",
+    "target": "dia:zufer-b-huzeyl",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-amr-b-ala",
+    "target": "dia:kerhi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-yusuf",
+    "target": "alam:2871",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:seybani-muhammed-b-hasan",
+    "target": "dia:ebu-ganim",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:seybani-muhammed-b-hasan",
+    "target": "dia:isa-b-eban",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:seybani-muhammed-b-hasan",
+    "target": "dia:ebu-hafs-el-kebir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-hafs-el-kebir",
+    "target": "dia:ebu-hafs-el-haddad",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-hafs-el-haddad",
+    "target": "dia:cafer-b-mansurul-yemen",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-hafs-el-haddad",
+    "target": "dia:sibli-ebu-bekir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:mutemid-alellah-ahmed-b-cafer",
+    "target": "dia:tahavi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:tahavi",
+    "target": "dia:cessas",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:11050",
+    "target": "dia:ebheri-ebu-bekir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:cafer-b-mansurul-yemen",
+    "target": "dia:harizmi-muhammed-b-ahmed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:nesefi-necmeddin",
+    "target": "dia:merginani-burhaneddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:semerkandi-alaeddin",
+    "target": "dia:kasani",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:semerkandi-alaeddin",
+    "target": "dia:tekis-alaeddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:desuki-muhammed-b-ahmed",
+    "target": "dia:ibn-abidin-muhammed-emin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "alam:7647",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:7647",
+    "target": "dia:abdullah-b-cafer-b-ebu-talib",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-cafer-b-ebu-talib",
+    "target": "atlas:306",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-cafer-b-ebu-talib",
+    "target": "dia:yusuf-b-omer-es-sekafi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:yusuf-b-omer-es-sekafi",
+    "target": "dia:malik-b-enes",
+    "type": "SILSILE"
+  },
+  {
+    "source": "atlas:306",
+    "target": "dia:malik-b-enes",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:malik-b-enes",
+    "target": "dia:ebul-bahteri-vehb-b-vehb",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:malik-b-enes",
+    "target": "dia:esheb-el-kaysi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:malik-b-enes",
+    "target": "dia:yahya-b-eksem",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sahnun",
+    "target": "dia:buhari-muhammed-b-ismail",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sahnun",
+    "target": "dia:ibn-ebu-zeyd",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:mazeri",
+    "target": "dia:kadi-iyaz",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-teymiyye-fahreddin",
+    "target": "dia:karafi-sehabeddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-kadi-aclun-takiyyuddin",
+    "target": "dia:hattab",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:malik-b-enes",
+    "target": "dia:kelbi-hisam-b-muhammed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:kelbi-hisam-b-muhammed",
+    "target": "dia:yahya-b-muaz",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:kelbi-hisam-b-muhammed",
+    "target": "dia:rebi-b-suleyman-el-muradi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muzeni",
+    "target": "dia:ibn-hurrem",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:yahya-b-muaz",
+    "target": "dia:ibn-hurrem",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-hurrem",
+    "target": "dia:isferayini-ebu-hamid",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:isferayini-ebu-hamid",
+    "target": "dia:taberi-ebut-tayyib",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:maliki-muhammed-ali",
+    "target": "dia:cuveyni-imamul-haremeyn",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:taberi-ebut-tayyib",
+    "target": "dia:maverdi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:taberi-ebut-tayyib",
+    "target": "dia:ebu-maser-et-taberi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-maser-et-taberi",
+    "target": "dia:ebu-ubeyd-el-bekri",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:cuveyni-imamul-haremeyn",
+    "target": "dia:gazzali",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-ubeyd-el-bekri",
+    "target": "dia:ebu-davud-suleyman-b-necah",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibnus-salah-es-sehrezuri",
+    "target": "dia:nevevi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:subki-takiyyuddin",
+    "target": "dia:bulkini-omer-b-reslan",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:bulkini-omer-b-reslan",
+    "target": "dia:zekeriyya-el-ensari",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:zekeriyya-el-ensari",
+    "target": "dia:ibn-hacer-el-heytemi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-hasan-el-bagdadi",
+    "target": "dia:ibn-mende-ebu-abdullah",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-mende-ebu-abdullah",
+    "target": "alam:5599",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:esari-ebul-hasan",
+    "target": "dia:amiri-ebul-hasan",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:amiri-ebul-hasan",
+    "target": "alam:10132",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:amiri-ebul-hasan",
+    "target": "dia:ibn-hamid",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:10132",
+    "target": "dia:abdulkahir-el-bagdadi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-hamid",
+    "target": "dia:kuseyri-abdulkerim-b-hevazin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdulkahir-el-bagdadi",
+    "target": "dia:kuseyri-abdulkerim-b-hevazin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:kuseyri-abdulkerim-b-hevazin",
+    "target": "dia:cuveyni-imamul-haremeyn",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:fahreddin-er-razi",
+    "target": "dia:ici-adududdin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:vasil-b-ata",
+    "target": "dia:amr-b-ubeyd",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:belhi-ebu-zeyd",
+    "target": "dia:kadi-abdulcebbar",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:hasan-i-basri",
+    "target": "dia:vasil-b-ata",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:amr-b-ubeyd",
+    "target": "dia:ebul-huzeyl-el-allaf",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebul-huzeyl-el-allaf",
+    "target": "dia:nazzam",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebul-huzeyl-el-allaf",
+    "target": "dia:belhi-ebu-ali",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:belhi-ebu-ali",
+    "target": "dia:belhi-ebu-zeyd",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:belhi-ebu-zeyd",
+    "target": "dia:kadi-abdulvehhab",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-yusuf",
+    "target": "dia:seybani-muhammed-b-hasan",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-ebu-hatim",
+    "target": "dia:ibn-mahled-ebul-kasim",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-ebu-hatim",
+    "target": "dia:hakim-es-semerkandi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-mahled-ebul-kasim",
+    "target": "dia:pezdevi-ebul-yusr",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:pezdevi-ebul-yusr",
+    "target": "dia:nesefi-ebul-muin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:nesefi-ebul-muin",
+    "target": "dia:sabuni-nureddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:nesefi-ebul-muin",
+    "target": "dia:nesefi-necmeddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "dia:abdullah-b-cafer-b-ebu-talib",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "dia:akil-b-ebu-talib",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "alam:4790",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:4790",
+    "target": "dia:urve-b-zubeyr",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:akil-b-ebu-talib",
+    "target": "dia:arec-abdurrahman-b-hurmuz",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:akil-b-ebu-talib",
+    "target": "dia:ibn-ebu-muleyke",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:urve-b-zubeyr",
+    "target": "dia:hisam-b-urve",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-ebu-muleyke",
+    "target": "dia:malik-b-enes",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:hisam-b-urve",
+    "target": "dia:malik-b-enes",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:malik-b-enes",
+    "target": "dia:kuteybe-b-said",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:veki-b-cerrah",
+    "target": "dia:ahmed-b-hanbel",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdurrahman-b-mehdi",
+    "target": "dia:ahmed-b-hanbel",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sufyan-b-uyeyne",
+    "target": "dia:humeydi-abdullah-b-zubeyr",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sufyan-b-uyeyne",
+    "target": "dia:ahmed-b-hanbel",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:humeydi-abdullah-b-zubeyr",
+    "target": "dia:buhari-muhammed-b-ismail",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:yahya-b-eksem",
+    "target": "dia:buhari-muhammed-b-ismail",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:hulvani-hasan-b-ali",
+    "target": "dia:buhari-muhammed-b-ismail",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-aise-ubeydullah-b-muhammed",
+    "target": "alam:12009",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-aise-ubeydullah-b-muhammed",
+    "target": "dia:dineveri-ebu-hanife",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-aise-ubeydullah-b-muhammed",
+    "target": "dia:ibn-ebu-hayseme",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ishak-el-mevsili",
+    "target": "dia:buhari-muhammed-b-ismail",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ishak-el-mevsili",
+    "target": "alam:12009",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:kuteybe-b-said",
+    "target": "alam:12009",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:kuteybe-b-said",
+    "target": "dia:dineveri-ebu-hanife",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:kuteybe-b-said",
+    "target": "dia:nesai",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:kuteybe-b-said",
+    "target": "dia:ibn-ebu-hayseme",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ahmed-b-hanbel",
+    "target": "dia:buhari-muhammed-b-ismail",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ahmed-b-hanbel",
+    "target": "alam:12009",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sicistani-ebu-hatim",
+    "target": "alam:12009",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sicistani-ebu-hatim",
+    "target": "dia:ibn-ebu-hayseme",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:buhari-muhammed-b-ismail",
+    "target": "dia:buhari-muhammed-b-ismail",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:buhari-muhammed-b-ismail",
+    "target": "alam:12009",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:darekutni",
+    "target": "dia:hakim-en-nisaburi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ishak-el-mevsili",
+    "target": "dia:muslim-b-haccac",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:buhari-muhammed-b-ismail",
+    "target": "dia:dineveri-ebu-hanife",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-bessam-el-bagdadi",
+    "target": "alam:1264",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:1264",
+    "target": "dia:bulkini-omer-b-reslan",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:bulkini-omer-b-reslan",
+    "target": "dia:munavi-yahya-b-muhammed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:munavi-yahya-b-muhammed",
+    "target": "dia:dede-omer-ruseni",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:munavi-yahya-b-muhammed",
+    "target": "dia:sunbul-sinan",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:dede-omer-ruseni",
+    "target": "dia:ibrahim-gulseni",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sunbul-sinan",
+    "target": "dia:civizade-muhyiddin-mehmed-efendi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-mende-ebu-zekeriyya",
+    "target": "dia:abdulkadir-i-geylani",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "dia:ali",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ali",
+    "target": "dia:hasan-i-basri",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:hasan-i-basri",
+    "target": "dia:yezid-b-ebu-habib",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:yezid-b-ebu-habib",
+    "target": "dia:davud-et-tai",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:davud-et-tai",
+    "target": "dia:maruf-i-kerhi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:maruf-i-kerhi",
+    "target": "alam:3909",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:3909",
+    "target": "dia:ibn-bessam-el-bagdadi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:5507",
+    "target": "alam:1648",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:1648",
+    "target": "dia:ibn-mende-ebu-zekeriyya",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdulkadir-i-geylani",
+    "target": "alam:5445",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdulkadir-i-geylani",
+    "target": "dia:cezuli-isa-b-abdulaziz",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-seddad-bahaeddin",
+    "target": "dia:mevlana-celaleddin-i-rumi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:mevlana-celaleddin-i-rumi",
+    "target": "dia:husameddin-celebi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:mevlana-celaleddin-i-rumi",
+    "target": "dia:sultan-veled",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sultan-veled",
+    "target": "dia:arif-celebi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "dia:ebu-bekir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-bekir",
+    "target": "dia:selman-i-farisi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:selman-i-farisi",
+    "target": "dia:kasim-b-muhammed-b-ebu-bekir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:kasim-b-muhammed-b-ebu-bekir",
+    "target": "dia:cafer-es-sadik",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:cafer-es-sadik",
+    "target": "dia:bayezid-i-bistami",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:bayezid-i-bistami",
+    "target": "dia:ibn-yunus-ebul-hasan",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-yunus-ebul-hasan",
+    "target": "dia:baharzi-ali-b-hasan",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:baharzi-ali-b-hasan",
+    "target": "dia:ali-b-yusuf-b-tasfin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ali-b-yusuf-b-tasfin",
+    "target": "dia:gucduvani-abdulhalik",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:kelabazi-mahmud-b-ebu-bekir",
+    "target": "alam:12697",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:12697",
+    "target": "dia:cezeri-muhammed-b-ibrahim",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:cezeri-muhammed-b-ibrahim",
+    "target": "alam:12368",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:12368",
+    "target": "dia:subki-bahaeddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:subki-bahaeddin",
+    "target": "dia:alaeddin-attar",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:subki-bahaeddin",
+    "target": "dia:aise-bint-muhammed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:alaeddin-attar",
+    "target": "dia:yakub-i-cerhi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:yakub-i-cerhi",
+    "target": "dia:ubeydullah-ahrar",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ubeydullah-ahrar",
+    "target": "dia:ebu-abdullah-muhammed-b-ali",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-abdullah-muhammed-b-ali",
+    "target": "dia:ceziri-abdulkadir-b-muhammed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ceziri-abdulkadir-b-muhammed",
+    "target": "alam:11399",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:11399",
+    "target": "dia:makkari-ahmed-b-muhammed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:makkari-ahmed-b-muhammed",
+    "target": "dia:hafaci-muhammed-abdulmunim",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-ed-dihlevi",
+    "target": "dia:halid-el-bagdadi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sadaka-b-mansur",
+    "target": "dia:attabi-ahmed-b-muhammed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ali-b-yusuf-b-tasfin",
+    "target": "dia:gafiki-ahmed-b-muhammed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:gafiki-ahmed-b-muhammed",
+    "target": "dia:hakim-ata",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:hakim-ata",
+    "target": "alam:781",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:781",
+    "target": "dia:cuveyni-ata-melik",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:cuveyni-ata-melik",
+    "target": "dia:sadrusseria",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-bessam-el-bagdadi",
+    "target": "dia:ebu-medyen",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-medyen",
+    "target": "dia:abdusselam-b-mesis-el-haseni",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-ataullah-el-iskenderi",
+    "target": "dia:zebidi-ahmed-b-ahmed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:6101",
+    "target": "dia:ebu-hamza-es-sari",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-hamza-es-sari",
+    "target": "dia:abdurrahman-b-ebuz-zinad",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdurrahman-b-ebuz-zinad",
+    "target": "dia:vers",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "dia:ebu-eyyub-el-ensari",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-eyyub-el-ensari",
+    "target": "dia:yahya-b-ebu-kesir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:yahya-b-ebu-kesir",
+    "target": "dia:amr-b-haris",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:amr-b-haris",
+    "target": "dia:duri",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:amr-b-haris",
+    "target": "dia:susi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:zubeyr-b-avvam",
+    "target": "dia:ebu-cafer-el-kari",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-cafer-el-kari",
+    "target": "dia:ibn-lehia",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-cafer-el-kari",
+    "target": "dia:ibn-ebu-zib",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:suayb-b-ebu-hamza",
+    "target": "dia:halef-b-hisam",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:halef-b-hisam",
+    "target": "dia:ishak-b-imran",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:halef-b-hisam",
+    "target": "dia:idris-b-abdulkerim",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:1686",
+    "target": "dia:ames",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ames",
+    "target": "dia:suayb-b-ebu-hamza",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:suayb-b-ebu-hamza",
+    "target": "dia:hallad-b-halid",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "dia:zubeyr-b-avvam",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-eyyub-el-ensari",
+    "target": "dia:nasr-b-asim",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:yakub-el-hadrami",
+    "target": "dia:ravh-b-abdulmumin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-huzafe",
+    "target": "dia:zir-b-hubeys",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ali",
+    "target": "dia:abdurrahman-b-zeyd",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdurrahman-b-zeyd",
+    "target": "alam:5260",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:zir-b-hubeys",
+    "target": "alam:5260",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:5260",
+    "target": "dia:ebu-bekir-b-ayyas",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:5260",
+    "target": "dia:hafs-b-suleyman",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "dia:abdullah-b-omer-b-hattab",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-omer-b-hattab",
+    "target": "dia:mucahid-b-cebr",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:mucahid-b-cebr",
+    "target": "dia:ibn-ebu-muleyke",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-ebu-muleyke",
+    "target": "dia:bezzi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-ebu-muleyke",
+    "target": "dia:kunbul",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "dia:osman-b-talha",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:osman-b-talha",
+    "target": "dia:mugire-b-ebu-sihab",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:mugire-b-ebu-sihab",
+    "target": "dia:ibn-ebu-muleyke",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-ebu-muleyke",
+    "target": "dia:hisam-b-ammar",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-ebu-muleyke",
+    "target": "dia:ibn-zencuye",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ali",
+    "target": "dia:ebul-esved-ed-dueli",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebul-esved-ed-dueli",
+    "target": "dia:avn-b-abdullah",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:avn-b-abdullah",
+    "target": "dia:isa-b-omer-es-sekafi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:isa-b-omer-es-sekafi",
+    "target": "dia:halil-b-ahmed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:halil-b-ahmed",
+    "target": "dia:sibeveyhi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sibeveyhi",
+    "target": "dia:ahfes-el-evsat",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ahfes-el-evsat",
+    "target": "dia:muberred",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muberred",
+    "target": "dia:zeccac",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:muhammed",
+    "target": "dia:abdullah-b-amir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-amir",
+    "target": "dia:mucahid-b-cebr",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-amir",
+    "target": "dia:ibn-sirin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:mucahid-b-cebr",
+    "target": "dia:ibn-aise-muhammed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:katade-b-diame",
+    "target": "dia:abdurrezzak-es-sanani",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-aise-muhammed",
+    "target": "dia:ibn-ebu-zib",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:yuhanna-b-maseveyh",
+    "target": "dia:huneyn-b-ishak",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:huneyn-b-ishak",
+    "target": "dia:ishak-b-imran",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebu-amr-b-ala",
+    "target": "alam:2871",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdurrahman-b-ebu-bekir",
+    "target": "dia:urve-b-zubeyr",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:urve-b-zubeyr",
+    "target": "dia:ibn-ebu-muleyke",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-amir",
+    "target": "dia:ata-b-ebu-rebah",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ata-b-ebu-rebah",
+    "target": "alam:12010",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ahmed-b-hanbel",
+    "target": "dia:verrak-ebu-bekir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-cemaa-bedreddin",
+    "target": "dia:zehebi",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:fahreddin-er-razi",
+    "target": "dia:amidi-seyfeddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:sufyan-es-sevri",
+    "target": "dia:veki-b-cerrah",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-hacer-el-askalani",
+    "target": "dia:sehavi-semseddin",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ibn-bessam-el-bagdadi",
+    "target": "dia:sibli-ebu-bekir",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:arif-i-rivgeri",
+    "target": "alam:11771",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:11771",
+    "target": "alam:4326",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:4326",
+    "target": "dia:makkari-muhammed-b-muhammed",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:makkari-muhammed-b-muhammed",
+    "target": "alam:12368",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:10035",
+    "target": "dia:imam-i-rabbani",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:hasan-i-basri",
+    "target": "dia:amr-b-haris",
+    "type": "SILSILE"
+  },
+  {
+    "source": "alam:5260",
+    "target": "dia:suayb-b-ebu-hamza",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:ebul-esved-ed-dueli",
+    "target": "dia:nasr-b-asim",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:antaki-ali-b-muhammed",
+    "target": "dia:ibn-ebu-zeyd",
+    "type": "SILSILE"
+  },
+  {
+    "source": "dia:abdullah-b-amir",
+    "target": "dia:said-b-cubeyr",
+    "type": "SILSILE"
   }
 ]
