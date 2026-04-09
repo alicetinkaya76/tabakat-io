@@ -160,8 +160,8 @@ export default function ScholarDetail() {
   const narrative = lang === 'en' ? scholar.narrative_en : scholar.narrative_tr;
   const silsile = lang === 'en' ? scholar.silsile_chain_en : scholar.silsile_chain_tr;
 
-  const teachers = edges.filter(e => (e.type === 'TEACHER_OF' && e.target === decodedId) || (e.type === 'STUDENT_OF' && e.source === decodedId));
-  const students = edges.filter(e => (e.type === 'TEACHER_OF' && e.source === decodedId) || (e.type === 'STUDENT_OF' && e.target === decodedId));
+  const teachers = edges.filter(e => (e.type === 'TEACHER_OF' && e.source === decodedId) || (e.type === 'STUDENT_OF' && e.target === decodedId));
+  const students = edges.filter(e => (e.type === 'TEACHER_OF' && e.target === decodedId) || (e.type === 'STUDENT_OF' && e.source === decodedId));
   const contemporaries = edges.filter(e => e.type === 'CONTEMPORARY');
   const crossRefs = edges.filter(e => e.type === 'DIA_CROSS_REF');
   const silsileEdges = edges.filter(e => e.type === 'SILSILE');
@@ -294,7 +294,7 @@ export default function ScholarDetail() {
                   <div className="flex flex-wrap gap-1.5 max-h-60 overflow-y-auto">
                     {crossRefs.map((e, i) => {
                       const otherId = e.source === decodedId ? e.target : e.source;
-                      const otherName = e.target_name || otherId.split(':').pop();
+                      const otherName = (e.source === decodedId ? e.target_name : e.source_name) || e.target_name || otherId.split(':').pop();
                       return <Link key={i} to={`/scholar/${encodeURIComponent(otherId)}`} className="text-xs px-2.5 py-1 rounded-lg bg-sand-50 dark:bg-ink-800 text-ink-600 dark:text-sand-400 hover:bg-gold-50 dark:hover:bg-gold-900/20 hover:text-gold-700 dark:hover:text-gold-400 transition-colors">{otherName}</Link>;
                     })}
                   </div>
@@ -486,7 +486,7 @@ function RelationGroup({ title, icon, edges, scholarId, lang }) {
       <div className="space-y-0.5">
         {shown.map((e, i) => {
           const otherId = e.source === scholarId ? e.target : e.source;
-          const otherName = e.target_name || otherId.split(':').pop();
+          const otherName = (e.source === scholarId ? e.target_name : e.source_name) || e.target_name || otherId.split(':').pop();
           return <Link key={i} to={`/scholar/${encodeURIComponent(otherId)}`} className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-sand-50 dark:hover:bg-ink-800 transition-colors group"><div className="w-1.5 h-1.5 rounded-full bg-gold-400 group-hover:scale-125 transition-transform" /><span className="text-sm text-ink-700 dark:text-sand-300 group-hover:text-gold-700 dark:group-hover:text-gold-400 transition-colors">{otherName}</span></Link>;
         })}
       </div>
